@@ -1,10 +1,5 @@
-title: FreeData
-description: FreeData - Genossenschaft für digitale Souveränität.
-header_pages: []
+title: FreeData - Wir reißen die Linien neu ins Spielfeld.
+description: Genossenschaft für digitale Souveränität. Eigentum statt Abhängigkeit. Planbar. Sicher. Gemeinsam.
+theme: null
+plugins: []
 markdown: kramdown
-theme: minima #classic
-
-minima:
-  skin: classic
-  include_css:
-    - /assets/css/custom.css

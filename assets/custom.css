@@ -1,0 +1,33 @@
+:root{--bg:#0b0b0b;--fg:#fff;--muted:#c9c9c9;--line:#222}
+*{box-sizing:border-box}
+html,body{height:100%}
+body{margin:0;background:var(--bg);color:var(--fg);font-family:Inter,system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,"Apple Color Emoji","Segoe UI Emoji";line-height:1.35;letter-spacing:.01em;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}
+a{color:var(--fg);text-decoration:none;border-bottom:1px solid var(--fg)}
+a:hover{opacity:.85}
+.wrap{max-width:1100px;margin:0 auto;padding:24px}
+.hero{min-height:92svh;display:grid;align-content:center;gap:28px}
+.kicker{text-transform:uppercase;letter-spacing:.12em;font-size:12px;color:var(--muted)}
+h1{margin:0;font-size:clamp(42px,8vw,96px);line-height:.95;letter-spacing:-.02em}
+.lead{font-size:clamp(18px,2.8vw,28px);max-width:22ch;color:var(--muted)}
+.cta{display:inline-flex;align-items:center;gap:12px;padding:14px 18px;border:1px solid var(--fg);border-radius:999px;font-weight:600}
+.cta .dot{width:8px;height:8px;background:var(--fg);border-radius:999px;display:inline-block}
+.row{display:flex;flex-wrap:wrap;gap:18px;align-items:center}
+.divider{border:0;border-top:1px solid var(--line);margin:56px 0}
+.grid{display:grid;grid-template-columns:1fr;gap:22px}
+@media (min-width:860px){.grid{grid-template-columns:1.1fr .9fr;gap:40px}}
+h2{font-size:clamp(28px,4vw,42px);margin:0;line-height:1.05}
+p{margin:0;color:var(--muted);font-size:clamp(16px,2vw,18px)}
+.stack{display:grid;gap:14px}
+.manifest{border:1px solid var(--line);padding:clamp(16px,3vw,24px);border-radius:16px}
+.manifest h3{margin:0 0 10px;font-size:14px;text-transform:uppercase;letter-spacing:.16em;color:var(--muted)}
+.manifest p{font-size:clamp(18px,2.2vw,22px);color:var(--fg)}
+.bullets{display:grid;gap:8px;margin-top:8px;padding-left:0}
+.bullets li{list-style:none}
+.bullets li::before{content:"— ";color:var(--muted)}
+footer{margin-top:72px;padding:24px 0 48px;color:var(--muted);font-size:14px}
+.tiny{font-size:12px;color:var(--muted)}
+.label{display:inline-block;padding:6px 10px;border:1px solid var(--line);border-radius:999px;font-size:12px;color:var(--muted);text-transform:uppercase;letter-spacing:.16em}
+.caret{display:inline-block;width:1ch;overflow:hidden}
+.caret::after{content:"›";animation:blink 1.2s steps(1) infinite}
+@keyframes blink{50%{opacity:0}}
+::selection{background:#fff;color:#000}

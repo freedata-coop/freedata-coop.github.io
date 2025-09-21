@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="de">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ page.title | default: site.title }}</title>
+  <meta name="description" content="{{ site.description }}">
+  <meta property="og:title" content="{{ page.title | default: site.title }}">
+  <meta property="og:description" content="{{ site.description }}">
+  <meta property="og:type" content="website">
+  <meta property="og:locale" content="de_DE">
+  <meta name="theme-color" content="#000000">
+  <link rel="stylesheet" href="{{ '/assets/custom.css' | relative_url }}">
+</head>
+<body>
+  <main class="wrap">
+    {{ content }}
+    <footer>
+      <div class="row" style="justify-content:space-between">
+        <div>© <span id="y"></span> FreeData · in Bewegung · Europe</div>
+        <div>
+          <a href="mailto:shift@freedata.net">Kontakt</a>
+          <span style="opacity:.5">·</span>
+          <a href="#" onclick="alert('Satzung: in Vorbereitung.');return false;">Satzung (bald)</a>
+        </div>
+      </div>
+    </footer>
+  </main>
+  <script>document.getElementById('y').textContent=new Date().getFullYear()</script>
+  <noscript>Diese Seite funktioniert auch ohne JavaScript.</noscript>
+</body>
+</html>
