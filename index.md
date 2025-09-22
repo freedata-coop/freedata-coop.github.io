@@ -28,13 +28,13 @@ title: FreeData – Wir reißen die Linien neu ins Spielfeld.
     <ul class="bullets">
       <li>Genossenschaft → Organisationskultur.</li>
       <li>Open Source → technische Kultur.</li>
-      <li>Agile → Arbeitskultur.</li>
+      <li>New Work → Arbeitskultur.</li>
     </ul>
   </div>
 
   <div class="stack">
     <span class="label">Warum</span>
-    <h2>Das Fundament gehört uns – oder niemandem.</h2>
+    <h2>Das Fundament gehört unseren <br> Mitgliedern.</h2>
     <p>Heute mieten wir Software. Morgen besitzen wir Systeme. Wir reißen die Linien neu ins Feld – unsere Regeln, unser Spielfeld.</p>
     <ul class="bullets">
       <li>Weniger Lizenzkosten. Mehr Souveränität.</li>
@@ -51,7 +51,7 @@ title: FreeData – Wir reißen die Linien neu ins Spielfeld.
     <h3>Manifest</h3>
     <p>Wir sind keine Mieter. Wir sind Eigentümer.<br/>
        Wir bauen eine Infrastruktur, die bleibt.<br/>
-       Für den Mittelstand. Für Europa.</p>
+       Für den Mittelstand. </p>
   </div>
 
   <div class="stack">
