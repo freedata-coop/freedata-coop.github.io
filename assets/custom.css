@@ -31,3 +31,5 @@ footer{margin-top:72px;padding:24px 0 48px;color:var(--muted);font-size:14px}
 .caret::after{content:"›";animation:blink 1.2s steps(1) infinite}
 @keyframes blink{50%{opacity:0}}
 ::selection{background:#fff;color:#000}
+
+.stack.label {height: 30px;}
