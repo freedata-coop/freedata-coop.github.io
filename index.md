@@ -49,7 +49,7 @@ title: FreeData – Wir zeichnen die Linien neu ins Spielfeld.
 <section class="grid" aria-label="Manifest und Einladung">
 <div class="manifest">
   <h3>Manifest</h3>
-  <p>Wir gründen eine Genossenschaft.<br> Eine <strong>Software-Fabrik</strong> – exklusiv für den Mittelstand.<br/>
+  <p>Wir gründen eine Genossenschaft.<br> Eine <strong>Software-Fabrik</strong> – für den Mittelstand.<br/>
   <strong>Software-Eigentum</strong> statt Lizenzen und Miete.</p>
 </div>
 
