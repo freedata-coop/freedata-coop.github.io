@@ -4,7 +4,7 @@ title: FreeData – Wir zeichnen die Linien neu ins Spielfeld.
 ---
 
 <section class="hero" aria-label="Einstieg">
-  <div class="kicker">FreeData eG – in Bewegung</div>
+  <div class="kicker">FreeData · in Bewegung</div>
   <h1>Wir zeichnen die Linien <br> neu ins Spielfeld.</h1>
   <p class="lead">Eigentum statt Abhängigkeit.<br/>Planbar. Sicher. Gemeinsam.</p>
 
