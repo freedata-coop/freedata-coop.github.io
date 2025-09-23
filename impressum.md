@@ -5,7 +5,7 @@ permalink: /impressum/
 ---
 
 <section class="legal">
-  <h2>Impressum</h1>
+  <h2>Impressum</h2>
   <hr/>
 
   <p><strong>Angaben gemäß § 5 TMG</strong></p>

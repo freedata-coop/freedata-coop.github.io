@@ -5,13 +5,13 @@ permalink: /datenschutz/
 ---
 
 <section class="legal">
-  <h2>Datenschutzerklärung</h1>
+  <h2>Datenschutzerklärung</h2>
   <hr/>
 
   <p>Diese Website wird von Stefan Bergmann betrieben.<br/>
      Sie dient ausschließlich der Bereitstellung von Informationen.</p>
 
-  <h3>Erhobene Daten</h2>
+  <h3>Erhobene Daten</h3>
   <p>Beim Aufruf dieser Seite werden keine personenbezogenen Daten durch uns erfasst, gespeichert oder verarbeitet.</p>
 
   <p>Die Website verwendet:</p>
@@ -29,7 +29,7 @@ permalink: /datenschutz/
      (z. B. IP-Adresse, Browsertyp, Zeitpunkt) verarbeitet.<br/>
      Diese Daten sind für uns nicht einsehbar und werden nicht ausgewertet.</p>
 
-  <h3>Verantwortlich im Sinne der DSGVO</h2>
+  <h3>Verantwortlich im Sinne der DSGVO</h3>
   <p>
     Stefan Bergmann <br/>
     Pyrbaumerweg 8a <br/>
