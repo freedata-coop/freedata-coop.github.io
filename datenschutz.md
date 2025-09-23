@@ -26,8 +26,7 @@ permalink: /datenschutz/
      (GitHub Inc., 88 Colin P. Kelly Jr. Street, San Francisco, CA 94107, USA).</p>
 
   <p>Es ist möglich, dass GitHub zur technischen Bereitstellung anonymisierte Zugriffsdaten 
-     (z. B. IP-Adresse, Browsertyp, Zeitpunkt) verarbeitet.<br/>
-     Diese Daten sind für uns nicht einsehbar und werden nicht ausgewertet.</p>
+     (z. B. IP-Adresse, Browsertyp, Zeitpunkt) verarbeitet. Diese Daten sind für uns nicht einsehbar und werden nicht ausgewertet.</p>
 
   <h3>Verantwortlich im Sinne der DSGVO</h3>
   <p>
@@ -37,6 +36,7 @@ permalink: /datenschutz/
     Deutschland
   </p>
 
+ <br>
   <p>
     📱 Mobile: +49 162 42 86 180 <br/>
     📧 E-Mail: <a href="mailto:shift@freedata.net">shift@freedata.net</a><br/>
