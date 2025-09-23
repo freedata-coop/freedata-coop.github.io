@@ -9,7 +9,7 @@ title: FreeData – Wir zeichnen die Linien neu ins Spielfeld.
   <p class="lead">Eigentum statt Abhängigkeit.<br/>Planbar. Sicher. Gemeinsam.</p>
 
   <div class="row">
-    <a class="cta" href="mailto:shift@freedata.net?subject=Ich%20will%20mitmachen%20%E2%80%93%20FreeData&body=Kurz%3A%20Warum%20ich%20dabei%20bin%3A%20">
+    <a class="cta" href="mailto:shift@freedata.net?subject=Ich%bin%20dabei%20%E2%80%93%20FreeData&body=Kurz%3A%20Warum%20ich%20dabei%20bin%3A%20">
       <span class="dot" aria-hidden="true"></span>
       <span>shift@freedata.net</span>
       <span class="caret" aria-hidden="true"></span>
@@ -58,7 +58,7 @@ title: FreeData – Wir zeichnen die Linien neu ins Spielfeld.
     <h2>Der Shift beginnt hier.</h2>
     <p>Schreiben Sie uns. Ein Satz reicht.</p>
     <p style="margin-top:10px">
-      <a class="cta" href="mailto:shift@freedata.net?subject=Ich%20will%20mitmachen%20%E2%80%93%20FreeData&body=Kurz%3A%20Warum%20ich%20dabei%20bin%3A%20">
+      <a class="cta" href="mailto:shift@freedata.net?subject=Ich%20bin%20dabei%20%E2%80%93%20FreeData&body=Kurz%3A%20Warum%20ich%20dabei%20bin%3A%20">
         <span class="dot" aria-hidden="true"></span>
         <span>shift@freedata.net</span>
         <span class="caret" aria-hidden="true"></span>
