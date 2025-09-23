@@ -6,9 +6,11 @@ permalink: /impressum/
 
 <section class="legal">
   <h2>Impressum</h2>
+  <br>
+
   <hr/>
 
-  <p><strong>Angaben gemäß § 5 TMG</strong></p>
+  <h3>Angaben gemäß § 5 TMG</h3>
   <p>
     Stefan Bergmann <br/>
     Pyrbaumerweg 8a <br/>
@@ -16,14 +18,14 @@ permalink: /impressum/
     Deutschland
   </p>
 
-<br><br>
+<br>
   <p>
     📱 Mobile: +49 162 42 86 180 <br/>
     📧 E-Mail: <a href="mailto:shift@freedata.net">shift@freedata.net</a> <br/>
     🌐 Website: <a href="https://www.freedata.net">www.freedata.net</a>
   </p>
 
-<br><br>
+<br>
   <h3>Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV</h3>
   <p>
     Stefan Bergmann <br/>
