@@ -5,7 +5,7 @@ permalink: /impressum/
 ---
 
 <section class="legal">
-  <h1>Impressum</h1>
+  <h2>Impressum</h1>
   <hr/>
 
   <p><strong>Angaben gemäß § 5 TMG</strong></p>
@@ -16,13 +16,15 @@ permalink: /impressum/
     Deutschland
   </p>
 
+<br><br>
   <p>
     📱 Mobile: +49 162 42 86 180 <br/>
     📧 E-Mail: <a href="mailto:shift@freedata.net">shift@freedata.net</a> <br/>
     🌐 Website: <a href="https://www.freedata.net">www.freedata.net</a>
   </p>
 
-  <h2>Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV</h2>
+<br><br>
+  <h3>Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV</h3>
   <p>
     Stefan Bergmann <br/>
     Adresse wie oben

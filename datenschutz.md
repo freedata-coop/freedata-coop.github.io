@@ -4,42 +4,46 @@ layout: page_no_title
 permalink: /datenschutz/
 ---
 
-# Datenschutzerklärung
----
+<section class="legal">
+  <h2>Datenschutzerklärung</h1>
+  <hr/>
 
-Diese Website wird von Stefan Bergmann betrieben.  
-Sie dient ausschließlich der Bereitstellung von Informationen.
+  <p>Diese Website wird von Stefan Bergmann betrieben.<br/>
+     Sie dient ausschließlich der Bereitstellung von Informationen.</p>
 
-## Erhobene Daten
+  <h3>Erhobene Daten</h2>
+  <p>Beim Aufruf dieser Seite werden keine personenbezogenen Daten durch uns erfasst, gespeichert oder verarbeitet.</p>
 
-Beim Aufruf dieser Seite werden keine personenbezogenen Daten durch uns erfasst, gespeichert oder verarbeitet.
+  <p>Die Website verwendet:</p>
+  <ul>
+    <li>keine Cookies</li>
+    <li>kein Analyse- oder Trackingtool</li>
+    <li>kein Kontaktformular</li>
+    <li>keine Plugins von Drittanbietern</li>
+  </ul>
 
-Die Website verwendet:
+  <p>Die Seite wird statisch ausgeliefert über den Hostingdienst <strong>GitHub Pages</strong><br/>
+     (GitHub Inc., 88 Colin P. Kelly Jr. Street, San Francisco, CA 94107, USA).</p>
 
-- **keine Cookies**
-- **kein Analyse- oder Trackingtool**
-- **kein Kontaktformular**
-- **keine Plugins von Drittanbietern**
+  <p>Es ist möglich, dass GitHub zur technischen Bereitstellung anonymisierte Zugriffsdaten 
+     (z. B. IP-Adresse, Browsertyp, Zeitpunkt) verarbeitet.<br/>
+     Diese Daten sind für uns nicht einsehbar und werden nicht ausgewertet.</p>
 
-Die Seite wird statisch ausgeliefert über den Hostingdienst **GitHub Pages**  
-(GitHub Inc., 88 Colin P. Kelly Jr. Street, San Francisco, CA 94107, USA).
+  <h3>Verantwortlich im Sinne der DSGVO</h2>
+  <p>
+    Stefan Bergmann <br/>
+    Pyrbaumerweg 8a <br/>
+    90502 Schwarzenbruck, Germany <br/>
+    Deutschland
+  </p>
 
-Es ist möglich, dass GitHub zur technischen Bereitstellung anonymisierte Zugriffsdaten (z. B. IP-Adresse, Browsertyp, Zeitpunkt) verarbeitet.  
-Diese Daten sind für uns nicht einsehbar und werden nicht ausgewertet.
+  <p>
+    📱 Mobile: +49 162 42 86 180 <br/>
+    📧 E-Mail: <a href="mailto:shift@freedata.net">shift@freedata.net</a><br/>
+    🌐 Website: <a href="https://www.freedata.net">www.freedata.net</a>
+  </p>
 
-## Verantwortlich im Sinne der DSGVO
+  <p><a href="/">← Zurück zur Startseite</a></p>
 
-Stefan Bergmann <br>
-Pyrbaumerweg 8a <br>
-90502 Schwarzenbruck, Germany <br>
-Deutschland <br>
-
-📱 Mobile: +49 162 42 86 180 <br> 
-📧 E-Mail: [shift@freedata.net](mailto:shift@freedata.net) <br>
-🌐 Website: [www.freedata.net](https://www.freedata.net) <br>
-
-[← Zurück zur Startseite](/)
-
----
-
-*Letzte Aktualisierung: September 2025*
+  <p><em>Letzte Aktualisierung: September 2025</em></p>
+</section>
