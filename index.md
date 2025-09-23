@@ -1,11 +1,11 @@
 ---
 layout: default
-title: FreeData – Wir zeichnen die Linien neu ins Spielfeld.
+title: FreeData – Wir ziehen die Linien neu ins Spielfeld.
 ---
 
 <section class="hero" aria-label="Einstieg">
   <div class="kicker">FreeData · in Bewegung</div>
-  <h1>Wir zeichnen die Linien <br> neu ins Spielfeld.</h1>
+  <h1>Wir ziehen die Linien <br> neu ins Spielfeld.</h1>
   <p class="lead">Eigentum statt Abhängigkeit.<br/>Planbar. Sicher. Gemeinsam.</p>
 
   <div class="row">
