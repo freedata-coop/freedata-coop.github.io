@@ -56,13 +56,14 @@ title: FreeData – Wir zeichnen die Linien neu ins Spielfeld.
   <div class="stack">
     <span class="label">Mitmachen</span>
     <h2>Der Shift beginnt hier.</h2>
-    <p>Schreiben Sie uns. Ein Satz genügt.</p>
-    <p style="margin-top:10px">
+     <div class="row">
         <a class="cta" href="mailto:shift@freedata.net?subject=Eigentum%20statt%20Miete%20%E2%80%93%20FreeData&body=Kurz%3A%20Warum%20ich%20dabei%20bin%3A%20">
-            <span class="dot" aria-hidden="true"></span>
-            <span>shift@freedata.net</span>
-            <span class="caret" aria-hidden="true"></span>
+        <span class="dot" aria-hidden="true"></span>
+        <span>shift@freedata.net</span>
+        <span class="caret" aria-hidden="true"></span>
         </a>
-    </p>
+        <span class="tiny">Schreiben Sie uns.<br>Ein Satz genügt.</span>
+    </div>
+
   </div>
 </section>
