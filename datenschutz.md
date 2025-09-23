@@ -43,9 +43,6 @@ permalink: /datenschutz/
     🌐 Website: <a href="https://www.freedata.net">www.freedata.net</a>
   </p>
 
-  <br><br>
-  <p><a href="/">← Zurück zur Startseite</a></p>
-
-  <br><br>
+  <br>
   <p><em>Letzte Aktualisierung: September 2025</em></p>
 </section>

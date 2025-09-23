@@ -47,6 +47,4 @@ permalink: /impressum/
   </p>
   <p>Unsere E-Mail-Adresse finden Sie oben im Impressum.</p>
 
-  <br><br>
-  <p><a href="/">← Zurück zur Startseite</a></p>
 </section>
