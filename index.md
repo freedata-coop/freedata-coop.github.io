@@ -1,11 +1,11 @@
 ---
 layout: default
-title: FreeData – Wir reißen die Linien neu ins Spielfeld.
+title: FreeData – Wir zeichnen die Linien neu ins Spielfeld.
 ---
 
 <section class="hero" aria-label="Einstieg">
   <div class="kicker">FreeData eG – in Bewegung</div>
-  <h1>Wir reißen die Linien <br> neu ins Spielfeld.</h1>
+  <h1>Wir zeichnen die Linien <br> neu ins Spielfeld.</h1>
   <p class="lead">Eigentum statt Abhängigkeit.<br/>Planbar. Sicher. Gemeinsam.</p>
 
   <div class="row">
@@ -14,7 +14,7 @@ title: FreeData – Wir reißen die Linien neu ins Spielfeld.
       <span>shift@freedata.net</span>
       <span class="caret" aria-hidden="true"></span>
     </a>
-    <span class="tiny">Schreiben Sie uns.<br> Warum wollen Sie ein Teil davon werden?</span>
+    <span class="tiny">Schreiben Sie uns.<br> Ein Satz genügt.</span>
   </div>
 </section>
 
@@ -35,10 +35,10 @@ title: FreeData – Wir reißen die Linien neu ins Spielfeld.
   <div class="stack">
     <span class="label">Warum</span>
     <h2>Das Fundament gehört unseren <br> Mitgliedern.</h2>
-    <p>Heute mieten wir Software. Morgen besitzen wir Systeme. Wir reißen die Linien neu ins Feld – unsere Regeln, unser Spielfeld.</p>
+    <p>Heute mieten wir Software. Morgen sind wir Eigentümer. Wir ziehen die Linien neu – unsere Regeln, unser Spielfeld.</p>
     <ul class="bullets">
       <li>Weniger Lizenzkosten. Mehr Souveränität.</li>
-      <li>Daten in Europa. Transparenz statt Black Box.</li>
+      <li>Daten in Europa. Transparenz statt Unsicherheit.</li>
       <li>Planbarkeit statt Abhängigkeit.</li>
     </ul>
   </div>
@@ -47,12 +47,12 @@ title: FreeData – Wir reißen die Linien neu ins Spielfeld.
 <hr class="divider"/>
 
 <section class="grid" aria-label="Manifest und Einladung">
-  <div class="manifest">
-    <h3>Manifest</h3>
-    <p>Wir sind keine Mieter. Wir sind Eigentümer.<br/>
-       Wir bauen eine Infrastruktur, die bleibt.<br/>
-       Für den Mittelstand. </p>
-  </div>
+<div class="manifest">
+  <h3>Manifest</h3>
+  <p>Wir gründen eine Genossenschaft – exklusiv für den Mittelstand.<br/>
+     Gemeinsam bauen wir eine <strong>Software-Fabrik</strong> – für ERP, Cloud und KI.<br/>
+     Dort entsteht <strong>Software-Eigentum</strong> – statt Lizenzen und Miete.</p>
+</div>
 
   <div class="stack">
     <span class="label">Mitmachen</span>
