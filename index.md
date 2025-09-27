@@ -38,9 +38,9 @@ title: FreeData – Wir ziehen die Linien neu ins Spielfeld.
     <h2>Das Fundament gehört unseren Mitgliedern.</h2>
     <p>Wir brauchen eine gemeinsame Strategie – und Kontrolle über unsere Daten.<br>Sonst bleiben wir abhängig.</p>
     <ul class="bullets">
-      <li>Strategie → Wir brechen den Kreislauf der Einzellösungen.</li>
-      <li>Zusammenarbeit → Mehr geteilte Entwicklung → mehr Wirkung.</li>
-      <li>Datenfreiheit → Daten im Eigentum der Mitglieder, frei nutzbar<br>für Innovation und Automatisierung.</li>
+      <li>Wir brechen den Kreislauf der Einzellösungen.</li>
+      <li>Mehr geteilte Entwicklung → mehr Wirkung.</li>
+      <li>Daten frei nutzbar für Innovation und Automatisierung.</li>
     </ul>
   </div>
 </section>
@@ -51,7 +51,7 @@ title: FreeData – Wir ziehen die Linien neu ins Spielfeld.
 <div class="manifest">
   <h3>Manifest</h3>
   <p>Wir glauben an <strong>freie Daten.</strong><br>
-  Sie sind Grundlage für Innovation,<br>Souveränität und Zusammenarbeit.</p>
+  Sie sind Grundlage für Innovation, <br>Souveränität und Automatisierung.</p>
 </div>
 
   <div class="stack">
