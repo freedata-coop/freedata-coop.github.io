@@ -6,7 +6,7 @@ title: FreeData – Wir ziehen die Linien neu ins Spielfeld.
 <section class="hero" aria-label="Einstieg">
   <div class="kicker">FreeData · in Bewegung</div>
   <h1>Wir ziehen die Linien <br> neu ins Spielfeld.</h1>
-  <p class="lead">Eigentum statt Abhängigkeit.<br/>Planbar. Sicher. Gemeinsam.</p>
+  <p class="lead">Eine gemeinsame Strategie.<br/>Eine Software-Fabrik.<br>Freiheit über die eigenen Daten.</p>
 
   <div class="row">
     <a class="cta" href="mailto:shift@freedata.net?subject=Eigentum%20statt%20Miete%20%E2%80%93%20FreeData&body=Kurz%3A%20Warum%20ich%20dabei%20bin%3A%20">
@@ -20,14 +20,20 @@ title: FreeData – Wir ziehen die Linien neu ins Spielfeld.
 
 <hr class="divider"/>
 
+    <span class="tiny">Schreiben Sie uns.<br>Ein Satz genügt.</span>
+  </div>
+</section>
+
+<hr class="divider"/>
+
 <section class="grid" aria-label="Was und Warum">
   <div class="stack">
     <span class="label">Was</span>
     <h2>Genossenschaft. Software-Fabrik. Eigentum.</h2>
-    <p>Wir bündeln Kraft. Wir bauen offene Software, die <em>uns</em> gehört. Lösungen, die bleiben. Systeme, die nicht verschwinden, wenn Verträge enden.</p>
+    <p>Jeder investiert in Einzellösungen – ohne gemeinsame Wirkung.<br>Wir bündeln Kraft. Wir bauen offene Software, die <em>uns</em> gehört.</p>
     <ul class="bullets">
       <li>Genossenschaft → Organisationskultur.</li>
-      <li>Open Source → technische Kultur.</li>
+      <li>Open Source → Technologie-Kultur.</li>
       <li>New Work → Arbeitskultur.</li>
     </ul>
   </div>
@@ -35,11 +41,11 @@ title: FreeData – Wir ziehen die Linien neu ins Spielfeld.
   <div class="stack">
     <span class="label">Warum</span>
     <h2>Das Fundament gehört unseren <br> Mitgliedern.</h2>
-    <p>Heute mieten wir Software. Morgen sind wir Eigentümer. Wir ziehen die Linien neu – unsere Regeln, unser Spielfeld.</p>
+    <p>Es fehlt eine gemeinsame Strategie. Und solange Daten in fremden Systemen gefangen sind, bleiben wir abhängig.</p>
     <ul class="bullets">
-      <li>Weniger Lizenzkosten. Mehr Souveränität.</li>
-      <li>Daten in Europa. Transparenz statt Unsicherheit.</li>
-      <li>Planbarkeit statt Abhängigkeit.</li>
+      <li>Eine gemeinsame digitale Strategie.</li>
+      <li>Daten im Eigentum der Mitglieder - frei nutzbar.</li>
+      <li>Mehr Zusammenarbeit - Wirkung.
     </ul>
   </div>
 </section>
@@ -49,7 +55,8 @@ title: FreeData – Wir ziehen die Linien neu ins Spielfeld.
 <section class="grid" aria-label="Manifest und Einladung">
 <div class="manifest">
   <h3>Manifest</h3>
-  <p>Wir gründen eine Genossenschaft.<br> Eine <strong>Software-Fabrik</strong> – für den Mittelstand.<br/>
+  <p>Wir glauben an freie Daten.<br>Daten gehören ihren Erzeugern.<br/>
+  Sie sind die Grundlage für Innovation, Souveränität und Zusammenarbeit.
   <strong>Software-Eigentum</strong> statt Lizenzen und Miete.</p>
 </div>
 
