@@ -40,7 +40,7 @@ title: FreeData – Wir ziehen die Linien neu ins Spielfeld.
     <ul class="bullets">
       <li>Wir brechen den Kreislauf der Einzellösungen.</li>
       <li>Mehr geteilte Entwicklung → mehr Wirkung.</li>
-      <li>Eigene Daten → frei nutzbar. Für Innovationen.</li>
+      <li>Eigene Daten → frei nutzbar. Für Innovation.</li>
     </ul>
   </div>
 </section>
