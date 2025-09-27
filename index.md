@@ -25,7 +25,7 @@ title: FreeData – Wir ziehen die Linien neu ins Spielfeld.
   <div class="stack">
     <span class="label">Was</span>
     <h2>Genossenschaft. Software-Fabrik. Eigentum.</h2>
-    <p>Wir investieren in Gesamtlösungen – mit gemeinsamer Wirkung. Wir bündeln Kraft. Wir bauen offene Systeme, die <em>uns</em> gehören.</p>
+    <p>Wir investieren in Gesamtlösungen – mit gemeinsamer Wirkung. Wir bündeln Kraft. Wir bauen offene Software, die <em>uns</em> gehört.</p>
     <ul class="bullets">
       <li>Genossenschaft → Organisationskultur.</li>
       <li>Open Source → Technologie-Kultur.</li>
@@ -40,7 +40,7 @@ title: FreeData – Wir ziehen die Linien neu ins Spielfeld.
     <ul class="bullets">
       <li>Wir brechen den Kreislauf der Einzellösungen.</li>
       <li>Mehr geteilte Entwicklung → mehr Wirkung.</li>
-      <li>Daten frei nutzbar für Innovation und Automatisierung.</li>
+      <li>Eigene Daten → frei nutzbar für Innovation & Automatisierung.</li>
     </ul>
   </div>
 </section>
