@@ -20,6 +20,7 @@ permalink: /impressum/
 
 <br>
   <p>
+    📞 Telefon: +49 9183 277 3999 
     📱 Mobile: +49 162 42 86 180 <br/>
     📧 E-Mail: <a href="mailto:shift@freedata.net">shift@freedata.net</a> <br/>
     🌐 Website: <a href="https://www.freedata.net">www.freedata.net</a>
