@@ -51,7 +51,7 @@ title: FreeData – Wir ziehen die Linien neu ins Spielfeld.
 <div class="manifest">
   <h3>Manifest</h3>
   <p>Wir glauben an <strong>freie Daten.</strong><br>
-  Sie sind Grundlage für Innovation, Souveränität und Zusammenarbeit.</p>
+  Sie sind Grundlage für Innovation,<br>Souveränität und Zusammenarbeit.</p>
 </div>
 
   <div class="stack">
