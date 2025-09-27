@@ -4,7 +4,7 @@ title: FreeData – Wir ziehen die Linien neu ins Spielfeld.
 ---
 
 <section class="hero" aria-label="Einstieg">
-  <div class="kicker">FreeData · in Bewegung</div>
+  <div class="kicker">FreeData · <em>in Bewegung</em></div>
   <h1>Wir ziehen die Linien <br> neu ins Spielfeld.</h1>
   <p class="lead">
   Eine gemeinsame Strategie.<br>Eine Software-Fabrik.<br>Daten, die uns gehören.</p>
@@ -40,7 +40,7 @@ title: FreeData – Wir ziehen die Linien neu ins Spielfeld.
     <ul class="bullets">
       <li>Wir brechen den Kreislauf der Einzellösungen.</li>
       <li>Mehr geteilte Entwicklung → mehr Wirkung.</li>
-      <li>Eigene Daten → frei nutzbar für Innovationen</li>
+      <li>Eigene Daten → frei nutzbar. Für Innovationen.</li>
     </ul>
   </div>
 </section>
