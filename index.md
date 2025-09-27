@@ -7,7 +7,7 @@ title: FreeData – Wir ziehen die Linien neu ins Spielfeld.
   <div class="kicker">FreeData · in Bewegung</div>
   <h1>Wir ziehen die Linien <br> neu ins Spielfeld.</h1>
   <p class="lead">
-  Eine gemeinsame Strategie.<br>Eine Software-Fabrik.<br>Daten die uns gehören.</p>
+  Eine gemeinsame Strategie.<br>Eine Software-Fabrik.<br>Daten, die uns gehören.</p>
 
   <div class="row">
     <a class="cta" href="mailto:shift@freedata.net?subject=Eigentum%20statt%20Miete%20%E2%80%93%20FreeData&body=Kurz%3A%20Warum%20ich%20dabei%20bin%3A%20">
@@ -25,7 +25,7 @@ title: FreeData – Wir ziehen die Linien neu ins Spielfeld.
   <div class="stack">
     <span class="label">Was</span>
     <h2>Genossenschaft. Software-Fabrik. Eigentum.</h2>
-    <p>Wir investiert in Gesamtlösungen – mit gemeinsamer Wirkung.<br>Wir bündeln Kraft. Wir bauen offene Software, die <em>uns</em> gehört.</p>
+    <p>Wir investieren in Gesamtlösungen – mit gemeinsamer Wirkung.<br>Wir bündeln Kraft. Wir bauen offene Software, die <em>uns</em> gehört.</p>
     <ul class="bullets">
       <li>Genossenschaft → Organisationskultur.</li>
       <li>Open Source → Technologie-Kultur.</li>
@@ -39,7 +39,7 @@ title: FreeData – Wir ziehen die Linien neu ins Spielfeld.
     <p>Es fehlt eine gemeinsame Strategie. Und solange Daten in fremden Systemen gefangen sind, bleiben wir abhängig.</p>
     <ul class="bullets">
       <li>Eine gemeinsame digitale Strategie.</li>
-      <li>Mehr Zusammenarbeit - mehr Wirkung. </li>
+      <li>Mehr Zusammenarbeit → mehr Wirkung. </li>
       <li>Daten im Eigentum der Mitglieder.</li>
     </ul>
   </div>
