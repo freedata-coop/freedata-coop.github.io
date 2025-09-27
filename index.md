@@ -34,12 +34,12 @@ title: FreeData – Wir ziehen die Linien neu ins Spielfeld.
 
   <div class="stack">
     <span class="label">Warum</span>
-    <h2>Das Fundament gehört unseren <br> Mitgliedern.</h2>
+    <h2>Das Fundament gehört unseren Mitgliedern.</h2>
     <p>Es fehlt eine gemeinsame Strategie. Und solange Daten in fremden Systemen gefangen sind, bleiben wir abhängig.</p>
     <ul class="bullets">
       <li>Eine gemeinsame digitale Strategie.</li>
       <li>Daten im Eigentum der Mitglieder - frei nutzbar.</li>
-      <li>Mehr Zusammenarbeit - Wirkung.
+      <li>Mehr Zusammenarbeit - Wirkung. </li>
     </ul>
   </div>
 </section>
