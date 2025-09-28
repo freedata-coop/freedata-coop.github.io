@@ -31,7 +31,7 @@ permalink: /datenschutz/
   <h3>Verantwortlich im Sinne der DSGVO</h3>
   <p>
     Stefan Bergmann <br/>
-    Pyrbaumerweg 8a <br/>
+    Pyrbaumer Weg 8a <br/>
     90502 Schwarzenbruck, Germany <br/>
     Deutschland
   </p>
