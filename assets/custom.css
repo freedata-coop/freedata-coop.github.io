@@ -31,3 +31,73 @@ footer{margin-top:72px;padding:24px 0 48px;color:var(--muted);font-size:14px}
 .caret::after{content:"›";animation:blink 1.2s steps(1) infinite}
 @keyframes blink{50%{opacity:0}}
 ::selection{background:#fff;color:#000}
+
+
+/* Helles Theme für Blog */
+body[theme="light"] {
+  --bg: #fafafa;
+  --fg: #111;
+  --muted: #555;
+  --line: #ddd;
+}
+
+/* ========= Sticky Top Navbar ========= */
+.topnav{
+  position: sticky;
+  top: 0;
+  z-index: 999;
+  background: rgba(11,11,11,.9); /* passt zu --bg */
+  backdrop-filter: blur(6px);
+  border-bottom: 1px solid var(--line);
+}
+
+.topnav-inner{
+  max-width: 1100px;            /* fluchtet mit .wrap */
+  margin: 0 auto;
+  padding: 12px 24px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+}
+
+.topnav-logo{
+  font-weight: 700;
+  letter-spacing: .04em;
+  text-decoration: none;
+  border-bottom: 0;
+  color: var(--fg);
+}
+
+.topnav-links{
+  display: flex;
+  align-items: center;
+  gap: 14px;
+}
+
+.topnav-links a{
+  text-decoration: none;
+  border-bottom: 0;
+  color: var(--fg);
+  opacity: .75;
+  font-size: 0.95rem;
+  padding: 6px 2px;
+}
+
+.topnav-links a:hover{
+  opacity: 1;
+}
+
+.topnav-links a.active{
+  opacity: 1;
+  font-weight: 600;
+  text-decoration: underline;
+  text-underline-offset: 5px;
+}
+
+/* Mobile */
+@media (max-width: 640px){
+  .topnav-inner{ padding: 10px 14px; }
+  .topnav-links{ gap: 10px; }
+  .topnav-links a{ font-size: .9rem; }
+}
