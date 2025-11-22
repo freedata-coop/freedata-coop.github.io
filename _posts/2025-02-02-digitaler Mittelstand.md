@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Digitaler Mittelstand"
-date: 2025-02-01
+date: 2025-02-02
 theme: light
 ---
 
@@ -11,5 +11,4 @@ Das ist der Teaser Digitaler Mittelstand...
 
 <!--more-->
 
-### Digitaler Mittelstand
 Das ist mein text

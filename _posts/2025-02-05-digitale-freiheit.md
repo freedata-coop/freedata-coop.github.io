@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Digitale Freiheit"
-date: 2025-02-01
+date: 2025-02-05
 theme: light
 ---
 
@@ -11,5 +11,4 @@ Das ist der Teaser Digitale Freiheit...
 
 <!--more-->
 
-### Digitaler Freiheit
 Das ist mein text

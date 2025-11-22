@@ -201,8 +201,8 @@ blog-teaser{ display:none; }
 
 .post-title{
   margin: 0;
-  font-size: clamp(32px,5vw,48px);
-  line-height: 1.1;
+  font-size: clamp(20px,3vw,28px);
+  line-height: 1.15;
   color: var(--fg);
 }
 
