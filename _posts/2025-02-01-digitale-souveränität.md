@@ -5,5 +5,11 @@ date: 2025-02-01
 theme: light
 ---
 
+
+Digitale Souveränität ist kein Schlagwort, sondern eine Architekturfrage. 
+Der Mittelstand verliert hier jeden Tag Handlungsspielraum.
+
+<!--more-->
+
 ### Digitale-Souveränität
-Das ist mein text
+Hier beginnt der Artikel

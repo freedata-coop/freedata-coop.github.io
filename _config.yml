@@ -3,3 +3,4 @@ description: Genossenschaft für digitale Souveränität. Eigentum statt Abhäng
 theme: null
 plugins: []
 markdown: kramdown
+excerpt_separator: "<!--more-->"
