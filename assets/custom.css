@@ -71,15 +71,16 @@ body[theme="light"] {
   text-underline-offset:4px;
 }
 
-
+/* LOGO LINKS – LINKS RECHTS */
 .topnav-inner {
-  max-width:1100px;
-  margin:0 auto;
-  padding:14px 24px;
-  display:flex;
-  align-items:center;
-  justify-content:space-between; /* Logo links, Links rechts */
-} 
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 14px 24px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;   /* <<< HIER PASSIERT DAS MAGIC */
+}
+
 
 .topnav-logo {
   font-weight: 700;
@@ -89,7 +90,12 @@ body[theme="light"] {
   border-bottom: 0;
 }
 
-.topnav-links{ margin-left:auto; } /* schiebt Links nach rechts */
+.topnav-links {
+  display: flex;
+  align-items: center;
+  gap: 22px;
+  margin-left: auto;                /* <<< ABSICHERUNG */
+}
 
 .topnav-links a {
   text-decoration: none;
