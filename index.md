@@ -7,7 +7,10 @@ title: FreeData – Wir ziehen die Linien neu ins Spielfeld.
   <div class="kicker">FreeData · <em>in Bewegung</em></div>
   <h1>Wir ziehen die Linien <br> neu ins Spielfeld.</h1>
   <p class="lead">
-  Eine gemeinsame Strategie.<br>Eine Software-Fabrik.<br>Für den Mittelstand.<br>Gemeinsam.</p>
+  Eine gemeinsame Strategie.<br>
+  Eine Software-Fabrik.<br>
+  Gemeinsam - für den Mittelstand.
+  </p>
 
   <div class="row">
     <a class="cta" href="mailto:shift@freedata.net?subject=Eigentum%20statt%20Miete%20%E2%80%93%20FreeData&body=Kurz%3A%20Warum%20ich%20dabei%20bin%3A%20">
