@@ -1,9 +1,9 @@
 ---
 layout: default
-title: "Digitale Souveränität"
+title: "Digitale Mittelstand"
 date: 2025-02-01
 theme: light
 ---
 
-## Digitale-Souveränität
+### Digitaler Mittelstand
 Das ist mein text

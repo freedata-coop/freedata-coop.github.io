@@ -1,9 +1,9 @@
 ---
 layout: default
-title: "Digitale Souveränität"
+title: "Digitale Freiheit"
 date: 2025-02-01
 theme: light
 ---
 
-## Digitale-Souveränität
+### Digitaler Freiheit
 Das ist mein text
