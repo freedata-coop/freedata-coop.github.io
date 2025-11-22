@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Digitale Mittelstand"
+title: "Digitaler Mittelstand"
 date: 2025-02-01
 theme: light
 ---

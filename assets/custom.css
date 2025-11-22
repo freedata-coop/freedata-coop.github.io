@@ -125,99 +125,65 @@ body[theme="light"] {
 }
 
 
-/* ================= Blog Layout ================= */
-
-.blog-hero{
-  padding-top: 18px;
-  display: grid;
-  gap: 14px;
-}
+/* ================= Compact Blog List ================= */
 
 .blog-list{
   display: grid;
-  gap: 18px;
+  gap: 0; /* keine Kartenabstände mehr */
 }
 
-.blog-card{
-  border: 1px solid var(--line);
-  border-radius: 14px;
-  padding: 18px 18px;
-  background: transparent;
+/* Ein Eintrag = eine Zeile mit Trenner */
+.blog-row{
+  padding: 18px 0 20px 0;
+  border-bottom: 1px solid var(--line);
   display: grid;
   gap: 8px;
 }
 
-.blog-meta{
-  display: flex;
-  gap: 10px;
-  align-items: center;
-  font-size: 12px;
-  color: var(--muted);
-  text-transform: uppercase;
-  letter-spacing: .12em;
+/* Kopfzeile: Titel links, Datum rechts */
+.blog-row-head{
+  display: grid;
+  grid-template-columns: 1fr auto;
+  align-items: baseline;
+  gap: 16px;
 }
 
-.blog-date{
-  opacity: .9;
-}
-
-.blog-tag{
-  border: 1px solid var(--line);
-  padding: 4px 8px;
-  border-radius: 999px;
-}
-
+/* Titel links dominant */
 .blog-title{
   margin: 0;
   font-size: clamp(20px,3vw,28px);
   line-height: 1.15;
 }
-
 .blog-title a{
   color: var(--fg);
   border-bottom: 0;
+  text-decoration: none;
 }
 
+/* Datum rechts klein & ruhig */
+.blog-date{
+  font-size: 12px;
+  color: var(--muted);
+  text-transform: uppercase;
+  letter-spacing: .12em;
+  white-space: nowrap;
+  text-align: right;
+}
+
+/* Teaser */
 .blog-excerpt{
   margin: 0;
   color: var(--muted);
   font-size: 16px;
-  line-height: 1.5;
-  max-width: 70ch;
+  line-height: 1.55;
+  max-width: 75ch;
 }
 
+/* Weiterlesen-Link schlicht */
 .blog-read a{
   font-size: 14px;
   border-bottom: 1px solid var(--fg);
   color: var(--fg);
   opacity: .9;
 }
-
-.blog-read a:hover{
-  opacity: 1;
-}
-
-/* Blog Header Row */
-.blog-meta {
-  display: grid;
-  grid-template-columns: 1fr auto; /* links flexibel, rechts kompakt */
-  align-items: center;
-  margin-bottom: 4px;
-}
-
-.blog-left {
-  display: flex;
-  gap: 10px;
-  align-items: center;
-}
-
-.blog-right {
-  text-align: right;
-}
-
-.blog-date {
-  font-size: 12px;
-  color: var(--muted);
-  text-transform: uppercase;
-  letter-spacing: .12em;
-}
+.blog-read a:hover{ opacity: 1; }
