@@ -127,6 +127,8 @@ body[theme="light"] {
 
 /* ================= Compact Blog List ================= */
 
+blog-teaser{ display:none; }
+
 .blog-list{
   display: grid;
   gap: 0; /* keine Kartenabstände mehr */

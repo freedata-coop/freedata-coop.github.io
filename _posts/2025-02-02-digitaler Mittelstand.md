@@ -5,9 +5,11 @@ date: 2025-02-01
 theme: light
 ---
 
-Das ist der Teaser...
-<!--more-->
+<blog-teaser>
+Das ist der Teaser Digitaler Mittelstand...
+</blog-teaser>
 
+<!--more-->
 
 ### Digitaler Mittelstand
 Das ist mein text

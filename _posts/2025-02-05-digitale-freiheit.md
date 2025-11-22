@@ -5,7 +5,10 @@ date: 2025-02-01
 theme: light
 ---
 
-Das ist der Teaser...
+<blog-teaser>
+Das ist der Teaser Digitale Freiheit...
+</blog-teaser>
+
 <!--more-->
 
 
