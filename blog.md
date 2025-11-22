@@ -6,8 +6,8 @@ theme: light
 
 <section class="blog-hero">
   <div class="kicker">FreeData · Blog</div>
-  <!-- <h1>{{ page.title }}</h1>
-  <p class="lead">Probleme. Lösungen. Aufbau FreeData.</p> -->
+  <!-- <h1>{{ page.title }}</h1> -->
+  <p class="lead">Gedanken über Abhängigkeiten und Souveränität – im Mittelstand.</p>
 </section>
 
 <hr class="divider"/>
