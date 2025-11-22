@@ -6,7 +6,7 @@ theme: light
 
 <section class="blog-hero">
   <div class="kicker">FreeData · Blog</div>
-  <h1>{{ page.title }}</h1>
+  <!-- <h1>{{ page.title }}</h1> -->
   <p class="lead">Gedanken — aus dem Mittelstand.</p>
 </section>
 

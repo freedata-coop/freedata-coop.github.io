@@ -9,7 +9,7 @@ a:hover{opacity:.85}
 .hero{min-height:92svh;display:grid;align-content:center;gap:28px}
 .kicker{text-transform:uppercase;letter-spacing:.12em;font-size:12px;color:var(--muted)}
 h1{margin:0;font-size:clamp(42px,8vw,96px);line-height:.95;letter-spacing:-.02em}
-.lead{font-size:clamp(18px,2.8vw,28px);max-width:25ch;color:var(--muted)}
+.lead{font-size:clamp(18px,2.8vw,28px);max-width:30ch;color:var(--muted)}
 .cta{display:inline-flex;align-items:center;gap:12px;padding:14px 18px;border:1px solid var(--fg);border-radius:999px;font-weight:600}
 .cta .dot{width:8px;height:8px;background:var(--fg);border-radius:999px;display:inline-block}
 .row{display:flex;flex-wrap:wrap;gap:18px;align-items:center}
