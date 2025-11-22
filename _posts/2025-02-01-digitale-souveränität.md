@@ -12,5 +12,5 @@ Der Mittelstand verliert hier jeden Tag Handlungsspielraum.
 
 <!--more-->
 
-### Digitale-Souveränität
+## Digitale-Souveränität
 Hier beginnt der Artikel

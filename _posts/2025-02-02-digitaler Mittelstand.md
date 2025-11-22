@@ -11,5 +11,5 @@ Das ist der Teaser Digitaler Mittelstand...
 
 <!--more-->
 
-### Digitaler Mittelstand
+## Digitaler Mittelstand
 Das ist mein text
