@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "Digitale Freiheit"
 date: 2025-02-05
 theme: light
