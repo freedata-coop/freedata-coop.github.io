@@ -53,8 +53,9 @@ title: FreeData – Wir ziehen die Linien neu ins Spielfeld.
 <section class="grid" aria-label="Manifest und Einladung">
 <div class="manifest">
   <h3>Manifest</h3>
-  <p>Wir glauben an <strong>freie Daten.</strong><br>
-  Sie sind Grundlage für Innovation, <br>Souveränität und Automatisierung.</p>
+  <p>Wir glauben an <strong>freie Daten</strong> –  
+  und an <strong>freie Systeme</strong>.<br>
+  Sie sind die Grundlage für Innovation, <br>Souveränität und Automatisierung.</p>
 </div>
 
   <div class="stack">
