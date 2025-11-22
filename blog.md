@@ -6,8 +6,7 @@ theme: light
 
 <section class="blog-hero">
   <div class="kicker">FreeData · Blog</div>
-  <h1>{{ page.title }}</h1>
-  <p class="lead">Probleme. Klartext. Lösungen. Aufbau FreeData.</p>
+  <p class="lead">{{ page.title }}</p>
 </section>
 
 <hr class="divider"/>
