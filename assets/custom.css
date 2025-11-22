@@ -178,7 +178,7 @@ blog-teaser{ display:none; }
   color: var(--muted);
   font-size: 16px;
   line-height: 1.55;
-  max-width: 75ch;
+  max-width: 100ch;
 }
 
 /* Weiterlesen-Link schlicht */
@@ -189,3 +189,34 @@ blog-teaser{ display:none; }
   opacity: .9;
 }
 .blog-read a:hover{ opacity: 1; }
+
+
+/* ================= Blog Post Layout ================= */
+
+.post-header{
+  margin-bottom: 24px;
+  display: grid;
+  gap: 4px;
+}
+
+.post-title{
+  margin: 0;
+  font-size: clamp(32px,5vw,48px);
+  line-height: 1.1;
+  color: var(--fg);
+}
+
+.post-meta{
+  font-size: 13px;
+  color: var(--muted);
+  text-transform: uppercase;
+  letter-spacing: .12em;
+}
+
+.post-content{
+  display: grid;
+  gap: 18px;
+  font-size: 18px;
+  line-height: 1.6;
+  max-width: 100ch;
+}

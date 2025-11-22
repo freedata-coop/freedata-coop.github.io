@@ -11,5 +11,5 @@ Das ist der Teaser Digitale Freiheit...
 
 <!--more-->
 
-## Digitaler Freiheit
+### Digitaler Freiheit
 Das ist mein text

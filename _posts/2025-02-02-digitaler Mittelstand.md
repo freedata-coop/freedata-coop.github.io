@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "Digitaler Mittelstand"
 date: 2025-02-01
 theme: light
@@ -11,5 +11,5 @@ Das ist der Teaser Digitaler Mittelstand...
 
 <!--more-->
 
-## Digitaler Mittelstand
+### Digitaler Mittelstand
 Das ist mein text

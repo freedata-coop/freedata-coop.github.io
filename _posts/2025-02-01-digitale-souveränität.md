@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "Digitale Souveränität"
 date: 2025-02-01
 theme: light
@@ -12,5 +12,4 @@ Der Mittelstand verliert hier jeden Tag Handlungsspielraum.
 
 <!--more-->
 
-## Digitale-Souveränität
 Hier beginnt der Artikel
