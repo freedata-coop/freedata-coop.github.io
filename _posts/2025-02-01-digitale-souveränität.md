@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Digitale Souveränität"
-date: 2024-02-01
+date: 2025-02-01
 theme: light
 ---
 

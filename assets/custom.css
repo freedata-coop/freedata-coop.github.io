@@ -55,15 +55,31 @@ body[theme="light"] {
   border-bottom: 1px solid rgba(255, 255, 255, 0.08);
 }
 
-.topnav-inner {
-  max-width: 1100px;  /* fluchtet exakt mit .wrap (aus custom.css) */
-  margin: 0 auto;
-  padding: 14px 24px;
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  gap: 12px;
+.topnav,
+.topnav a{
+  color:#fff !important;
 }
+
+.topnav a{
+  opacity:.75;
+}
+.topnav a:hover{ opacity:1; }
+.topnav a.active{
+  opacity:1;
+  font-weight:600;
+  text-decoration:underline;
+  text-underline-offset:4px;
+}
+
+
+.topnav-inner {
+  max-width:1100px;
+  margin:0 auto;
+  padding:14px 24px;
+  display:flex;
+  align-items:center;
+  justify-content:space-between; /* Logo links, Links rechts */
+} 
 
 .topnav-logo {
   font-weight: 700;
@@ -73,11 +89,7 @@ body[theme="light"] {
   border-bottom: 0;
 }
 
-.topnav-links {
-  display: flex;
-  align-items: center;
-  gap: 18px;
-}
+.topnav-links{ margin-left:auto; } /* schiebt Links nach rechts */
 
 .topnav-links a {
   text-decoration: none;
