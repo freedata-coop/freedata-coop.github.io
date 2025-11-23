@@ -251,6 +251,40 @@ blog-teaser{ display:none; }
   border-color: var(--fg);
 }
 
+/* Pager Pills */
+.pager {
+  display:flex;
+  justify-content:space-between;
+  align-items:center;
+  gap:14px;
+  margin-top:24px;
+}
+
+.pager-pill {
+  border:1px solid var(--line);
+  padding:6px 12px;
+  border-radius:999px;
+  text-decoration:none;
+  color:var(--fg);
+  opacity:.75;
+  font-size:14px;
+}
+
+.pager-pill:hover {
+  opacity:1;
+}
+
+.pager-archive {
+  opacity:1;
+  font-weight:600;
+  border-color: var(--fg);
+}
+
+.lead .pager-pill {
+  font-size: 13px;
+  padding:5px 10px;
+}
+
 /* ================= Jahres-Nav ================= */
 
 .year-nav{
