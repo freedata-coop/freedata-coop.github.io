@@ -10,13 +10,13 @@ theme: light
   <p class="lead">Alle Beiträge nach Jahr.</p>
 </section>
 
-<hr class="divider"/>
+<!-- <hr class="divider"/> -->
 
 {%- assign sorted = site.posts | sort: "date" | reverse -%}
 {%- assign years = sorted | group_by_exp: "post", "post.date | date: '%Y'" -%}
 
 <nav class="year-nav">
-  <a href="#all" class="is-active" data-year="all">Alle</a>
+  <a href="#all" data-year="all">Alle</a>
   {% for y in years %}
     <a href="#y{{ y.name }}" data-year="{{ y.name }}">{{ y.name }}</a>
   {% endfor %}
@@ -60,7 +60,16 @@ theme: light
 
   function fromHash(){
     const hash = location.hash.replace('#y','').replace('#','');
-    const year = hash || 'all';
+
+    // falls kein Hash: default = erstes Jahr aus der Nav (neuester Eintrag)
+    let year;
+    if(hash){
+      year = hash;
+    } else {
+      const firstYearPill = document.querySelector('.year-nav a[data-year]:not([data-year="all"])');
+      year = firstYearPill ? firstYearPill.dataset.year : 'all';
+    }
+
     showYear(year);
     setActivePill(year);
   }
