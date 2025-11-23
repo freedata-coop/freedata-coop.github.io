@@ -5,8 +5,8 @@ theme: light
 ---
 
 <section class="blog-hero">
-  <div class="kicker">FreeData · Blog</div>
-  <h1>Archiv</h1>
+  <div class="kicker">FreeData · Archiv</div>
+  <!-- <h1>Archiv</h1> -->
   <p class="lead">Alle Beiträge nach Jahr.</p>
 </section>
 
