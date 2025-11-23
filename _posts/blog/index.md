@@ -2,6 +2,7 @@
 layout: default
 title: Blog
 theme: light
+permalink: /blog/
 ---
 
 <section class="blog-hero">
