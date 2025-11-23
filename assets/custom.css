@@ -223,44 +223,21 @@ blog-teaser{ display:none; }
 
 /* ================= Pager ================= */
 
-/* Pager pills, same design as year-nav */
+/* Pager zentriert + feste Reihenfolge */
 .pager{
   display:flex;
-  justify-content:space-between;
-  align-items:center;
-  gap:10px;
+  justify-content:center;   /* <<< zentriert */
   margin-top:24px;
-  font-size:13px;
 }
 
-.pager a{
-  border:1px solid var(--line);
-  padding:6px 10px;
-  border-radius:999px;
-  text-decoration:none;
-  color:var(--fg);
-  opacity:.75;
-}
-
-.pager a:hover{ opacity:1; }
-
-/* Optional: Archiv-Link in der Mitte etwas stärker */
-.pager a.pager-archive{
-  opacity:1;
-  font-weight:600;
-  border-color: var(--fg);
-}
-
-/* Pager Pills */
-.pager {
+.pager-left{
   display:flex;
-  justify-content:space-between;
+  gap:12px;
   align-items:center;
-  gap:14px;
-  margin-top:24px;
 }
 
-.pager-pill {
+/* Pills wie Year-Nav */
+.pager-pill{
   border:1px solid var(--line);
   padding:6px 12px;
   border-radius:999px;
@@ -270,11 +247,9 @@ blog-teaser{ display:none; }
   font-size:14px;
 }
 
-.pager-pill:hover {
-  opacity:1;
-}
+.pager-pill:hover{ opacity:1; }
 
-.pager-archive {
+.pager-archive{
   opacity:1;
   font-weight:600;
   border-color: var(--fg);
