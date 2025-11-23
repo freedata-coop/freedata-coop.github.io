@@ -14,7 +14,7 @@ permalink: /blog/
 <hr class="divider"/>
 
 <section class="blog-list">
-{% for post in paginator.posts %}
+{% for post in site.posts %}
   <article class="blog-row">
     <div class="blog-row-head">
       <h2 class="blog-title">
