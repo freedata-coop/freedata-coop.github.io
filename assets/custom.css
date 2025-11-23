@@ -223,15 +223,32 @@ blog-teaser{ display:none; }
 
 /* ================= Pager ================= */
 
+/* Pager pills, same design as year-nav */
 .pager{
   display:flex;
   justify-content:space-between;
+  align-items:center;
+  gap:10px;
   margin-top:24px;
-  font-size:14px;
+  font-size:13px;
 }
+
 .pager a{
-  border-bottom:1px solid var(--fg);
+  border:1px solid var(--line);
+  padding:6px 10px;
+  border-radius:999px;
   text-decoration:none;
+  color:var(--fg);
+  opacity:.75;
+}
+
+.pager a:hover{ opacity:1; }
+
+/* Optional: Archiv-Link in der Mitte etwas stärker */
+.pager a.pager-archive{
+  opacity:1;
+  font-weight:600;
+  border-color: var(--fg);
 }
 
 /* ================= Jahres-Nav ================= */
@@ -261,3 +278,56 @@ blog-teaser{ display:none; }
   color:var(--muted);
 }
 
+/* Year nav pills */
+.year-nav{
+  display:flex;
+  flex-wrap:wrap;
+  gap:10px;
+  margin:0 0 18px 0;
+  font-size:13px;
+}
+
+.year-nav a{
+  border:1px solid var(--line);
+  padding:6px 10px;
+  border-radius:999px;
+  text-decoration:none;
+  color:var(--fg);
+  opacity:.75;
+  transition:opacity .15s ease, border-color .15s ease;
+}
+
+.year-nav a:hover{ opacity:1; }
+
+/* Active year via :target */
+/* Wenn ein Jahr "angesteuert" wird, highlight den passenden Nav-Link */
+.year-archive .year-head:target{
+  scroll-margin-top: 80px; /* damit Kopf nicht unter Nav klebt */
+}
+
+.year-nav a.is-active{
+  opacity:1;
+  font-weight:600;
+  border-color: var(--fg);
+}
+
+/* Pure CSS highlight des aktiven Jahres */
+.year-archive .year-head:target::after{
+  content:"";
+  display:block;
+  margin-top:8px;
+  height:2px;
+  width:42px;
+  background: var(--fg);
+  opacity:.9;
+}
+
+/* ================= Archiv-link ================= */
+
+.archive-link{
+  font-size:14px;
+  border-bottom:1px solid var(--fg);
+  text-decoration:none;
+  opacity:.8;
+}
+.archive-link:hover{ opacity:1; }

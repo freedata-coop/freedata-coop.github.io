@@ -12,7 +12,8 @@ theme: light
 
 <hr class="divider"/>
 
-{%- assign years = site.posts | group_by_exp: "post", "post.date | date: '%Y'" -%}
+{%- assign sorted = site.posts | sort: "date" | reverse -%}
+{%- assign years = sorted | group_by_exp: "post", "post.date | date: '%Y'" -%}
 
 <nav class="year-nav">
   {% for y in years %}
