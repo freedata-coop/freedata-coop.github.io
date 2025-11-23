@@ -10,8 +10,7 @@ theme: light
   <p class="lead">Alle Beiträge nach Jahr.</p>
 </section>
 
-<!-- <hr class="divider"/> -->
- <hr/>
+<hr class="divider-small"/>
 
 {%- assign sorted = site.posts | sort: "date" | reverse -%}
 {%- assign years = sorted | group_by_exp: "post", "post.date | date: '%Y'" -%}

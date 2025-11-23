@@ -14,6 +14,8 @@ h1{margin:0;font-size:clamp(42px,8vw,96px);line-height:.95;letter-spacing:-.02em
 .cta .dot{width:8px;height:8px;background:var(--fg);border-radius:999px;display:inline-block}
 .row{display:flex;flex-wrap:wrap;gap:18px;align-items:center}
 .divider{border:0;border-top:1px solid var(--line);margin:46px 0}
+.divider-small{border:0;border-top:1px solid var(--line);margin:12px 0}
+
 .grid{display:grid;grid-template-columns:1fr;gap:22px}
 @media (min-width:860px){.grid{grid-template-columns:1.1fr .9fr;gap:40px}}
 h2{font-size:clamp(28px,4vw,42px);margin:0;line-height:1.05}
