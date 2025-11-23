@@ -14,16 +14,24 @@ permalink: /blog/
 <hr class="divider"/>
 
 <section class="blog-list">
-<!-- {% for post in paginator.posts %} -->
-xxx
-{% for post in site.posts %}
+{% for post in paginator.posts %}
   <article class="blog-row">
     <div class="blog-row-head">
-      <h2 class="blog-title"><a href="{{ post.url }}">{{ post.title }}</a></h2>
-      <div class="blog-date">{{ post.date | date: "%d.%m.%Y" }}</div>
+      <h2 class="blog-title">
+        <a href="{{ post.url }}">{{ post.title }}</a>
+      </h2>
+      <div class="blog-date">
+        {{ post.date | date: "%d.%m.%Y" }}
+      </div>
     </div>
-    <p class="blog-excerpt">{{ post.excerpt | strip_html | truncate: 220 }}</p>
-    <div class="blog-read"><a href="{{ post.url }}">Weiterlesen →</a></div>
+
+    <p class="blog-excerpt">
+      {{ post.excerpt | strip_html | truncate: 220 }}
+    </p>
+
+    <div class="blog-read">
+      <a href="{{ post.url }}">Weiterlesen →</a>
+    </div>
   </article>
 {% endfor %}
 </section>
