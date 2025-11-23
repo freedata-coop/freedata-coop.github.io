@@ -15,6 +15,7 @@ permalink: /blog/
 
 <section class="blog-list">
 <!-- {% for post in paginator.posts %} -->
+xxx
 {% for post in site.posts %}
   <article class="blog-row">
     <div class="blog-row-head">
