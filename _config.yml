@@ -7,5 +7,5 @@ plugins:
   - jekyll-paginate
 
 excerpt_separator: "<!--more-->"
-paginate: 12
+paginate: 2
 paginate_path: "/blog/page:num/"
