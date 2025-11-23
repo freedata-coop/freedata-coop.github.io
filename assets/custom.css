@@ -220,3 +220,44 @@ blog-teaser{ display:none; }
   line-height: 1.6;
   max-width: 100ch;
 }
+
+/* ================= Pager ================= */
+
+.pager{
+  display:flex;
+  justify-content:space-between;
+  margin-top:24px;
+  font-size:14px;
+}
+.pager a{
+  border-bottom:1px solid var(--fg);
+  text-decoration:none;
+}
+
+/* ================= Jahres-Nav ================= */
+
+.year-nav{
+  display:flex;
+  flex-wrap:wrap;
+  gap:10px;
+  margin:0 0 18px 0;
+  font-size:13px;
+}
+.year-nav a{
+  border:1px solid var(--line);
+  padding:6px 10px;
+  border-radius:999px;
+  text-decoration:none;
+  color:var(--fg);
+  opacity:.85;
+}
+.year-nav a:hover{ opacity:1; }
+
+.year-head{
+  margin:28px 0 10px 0;
+  font-size:18px;
+  letter-spacing:.08em;
+  text-transform:uppercase;
+  color:var(--muted);
+}
+
