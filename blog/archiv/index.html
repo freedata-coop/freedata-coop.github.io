@@ -11,6 +11,7 @@ theme: light
 </section>
 
 <!-- <hr class="divider"/> -->
+ <hr/>
 
 {%- assign sorted = site.posts | sort: "date" | reverse -%}
 {%- assign years = sorted | group_by_exp: "post", "post.date | date: '%Y'" -%}
