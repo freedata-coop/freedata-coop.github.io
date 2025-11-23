@@ -1,9 +1,11 @@
 title: FreeData - Wir ziehen die Linien neu ins Spielfeld.
 description: Genossenschaft für digitale Souveränität. Eigentum statt Abhängigkeit. Planbar. Sicher. Gemeinsam.
 theme: null
+markdown: kramdown
+
 plugins:
   - jekyll-paginate
-markdown: kramdown
+
 excerpt_separator: "<!--more-->"
 paginate: 12
 paginate_path: "/blog/page:num/"

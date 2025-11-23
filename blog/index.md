@@ -2,7 +2,6 @@
 layout: default
 title: Blog
 theme: light
-permalink: /blog/
 ---
 
 <section class="blog-hero">
@@ -14,7 +13,7 @@ permalink: /blog/
 <hr class="divider"/>
 
 <section class="blog-list">
-{% for post in site.posts %}
+{% for post in paginator.posts %}
   <article class="blog-row">
     <div class="blog-row-head">
       <h2 class="blog-title">
