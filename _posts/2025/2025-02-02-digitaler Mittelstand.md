@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Digitaler Mittelstand"
+description: ""
 date: 2025-02-02
 theme: light
 ---

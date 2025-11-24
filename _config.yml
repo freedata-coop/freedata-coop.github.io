@@ -9,3 +9,4 @@ plugins:
 excerpt_separator: "<!--more-->"
 paginate: 20
 paginate_path: "/blog/page:num/"
+permalink: /:categories/:title/

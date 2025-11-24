@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Digitale Freiheit"
+description: ""
 date: 2025-02-05
 theme: light
 ---
