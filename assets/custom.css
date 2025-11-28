@@ -249,7 +249,15 @@ blog-teaser{ display:none; }
   font-size:14px;
 }
 
-.pager-pill:hover{ opacity:1; }
+.pager-pill,
+.pager-pill:visited {
+  color: var(--fg) !important;
+}
+
+.pager-pill:hover {
+  color: #000 !important;
+  border-color: #000 !important;
+}
 
 .pager-archive{
   opacity:1;
