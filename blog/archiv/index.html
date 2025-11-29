@@ -12,7 +12,7 @@ theme: light
 
 <hr class="divider-small"/>
 
-{%- assign published = site.posts | where: "state", "published" -%}
+{%- assign published = site.posts -%}
 {%- assign sorted = published | sort: "date" | reverse -%}
 {%- assign years = sorted | group_by_exp: "post", "post.date | date: '%Y'" -%}
 

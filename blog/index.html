@@ -16,7 +16,7 @@ theme: light
 
 <hr class="divider-small"/>
 
-{% assign published_posts = paginator.posts | where: "state", "published" %}
+{% assign published_posts = paginator.posts %}
 
 <section class="blog-list">
 {% if published_posts.size > 0 %}
