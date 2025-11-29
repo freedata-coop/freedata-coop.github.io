@@ -132,7 +132,7 @@ body[theme="light"] {
 blog-teaser {
   display: block;
   font-weight: 600;
-  font-style: normal;
+  font-style: italic;
   color: #333;
 }
 
