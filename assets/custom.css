@@ -133,8 +133,6 @@ blog-teaser {
   display: block;
   font-weight: 600;
   font-style: normal;
-  letter-spacing: 0.1px;
-  margin: 1rem 0 1.5rem;
   color: #333;
 }
 
@@ -218,7 +216,7 @@ blog-teaser {
 .post-title{
   margin: 0;
   font-size: clamp(20px,3vw,28px);
-  line-height: 1.15;
+  letter-spacing: 0px;
   color: var(--fg);
 }
 
