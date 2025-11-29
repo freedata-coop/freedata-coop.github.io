@@ -129,7 +129,14 @@ body[theme="light"] {
 
 /* ================= Compact Blog List ================= */
 
-blog-teaser{ display:none; }
+blog-teaser {
+  display: block;
+  font-weight: 600;
+  font-style: normal;
+  letter-spacing: 0.1px;
+  margin: 1rem 0 1.5rem;
+  color: #333;
+}
 
 .blog-list{
   display: grid;
@@ -203,7 +210,7 @@ blog-teaser{ display:none; }
 /* ================= Blog Post Layout ================= */
 
 .post-header{
-  margin-bottom: 24px;
+  margin-bottom: 10px;
   display: grid;
   gap: 4px;
 }
@@ -388,4 +395,18 @@ blog-teaser{ display:none; }
 .pager-pill.pager-archive:first-of-type{
   font-size: 13px;
   padding:4px 11px;
+}
+
+/* ================= Blog und Archiv (Keine Einträge) ================= */
+
+.empty-state {
+  text-align: center;
+  margin: 4rem 0;
+  color: #666;      
+  font-size: 1.1rem;
+  line-height: 1.6;
+}
+
+.empty-state p {
+  margin: 0.2rem 0;
 }

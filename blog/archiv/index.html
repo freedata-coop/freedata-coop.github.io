@@ -12,34 +12,43 @@ theme: light
 
 <hr class="divider-small"/>
 
-{%- assign sorted = site.posts | sort: "date" | reverse -%}
+{%- assign published = site.posts | where: "state", "published" -%}
+{%- assign sorted = published | sort: "date" | reverse -%}
 {%- assign years = sorted | group_by_exp: "post", "post.date | date: '%Y'" -%}
 
 <nav class="year-nav">
   <a href="#all" data-year="all">Alle</a>
-  {% for y in years %}
-    <a href="#y{{ y.name }}" data-year="{{ y.name }}">{{ y.name }}</a>
-  {% endfor %}
+  {% if sorted.size > 0 %}
+    {% for y in years %}
+      <a href="#y{{ y.name }}" data-year="{{ y.name }}">{{ y.name }}</a>
+    {% endfor %}
+  {% endif %}
 </nav>
 
 <section class="year-archive">
-{% for y in years %}
-  <div class="year-block" data-year="{{ y.name }}">
-    <h2 id="y{{ y.name }}" class="year-head">{{ y.name }}</h2>
+{% if sorted.size > 0 %}  
+  {% for y in years %}
+    <div class="year-block" data-year="{{ y.name }}">
+      <h2 id="y{{ y.name }}" class="year-head">{{ y.name }}</h2>
 
-    {% for post in y.items %}
-      <article class="blog-row">
-        <div class="blog-row-head">
-          <h2 class="blog-title"><a href="{{ post.url }}">{{ post.title }}</a></h2>
-          <div class="blog-date">{{ post.date | date: "%d.%m.%Y" }}</div>
-        </div>
-        <p class="blog-excerpt">{{ post.excerpt | strip_html | truncate: 220 }}</p>
-      </article>
-    {% endfor %}
-  </div>
-{% endfor %}
+      {% for post in y.items %}
+        <article class="blog-row">
+          <div class="blog-row-head">
+            <h2 class="blog-title"><a href="{{ post.url }}">{{ post.title }}</a></h2>
+            <div class="blog-date">{{ post.date | date: "%d.%m.%Y" }}</div>
+          </div>
+          <p class="blog-excerpt">{{ post.excerpt | strip_html | truncate: 220 }}</p>
+        </article>
+      {% endfor %}
+    </div>
+  {% endfor %}
+{% else %}
+<div class="empty-state">
+  <p>Noch keine Einträge im Archiv.</p>
+</div>
+{% endif %}
+
 </section>
-
 
 <script>
 (function () {
