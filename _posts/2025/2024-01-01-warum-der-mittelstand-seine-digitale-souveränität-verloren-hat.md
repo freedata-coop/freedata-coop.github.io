@@ -7,7 +7,7 @@ theme: light
 ---
 
 <blog-teaser>
-Der Mittelstand hat seine digitale Souveränität verloren – nicht aus Schwäche, sondern durch Abhängigkeiten, Lizenzen und isolierte IT-Inseln. <b>Der vollständige Artikel erscheint in Kürze.</b>
+Der Mittelstand hat seine digitale Souveränität verloren – nicht aus Schwäche, sondern durch Abhängigkeiten, Lizenzen und isolierte IT-Inseln. Daten gehören oft anderen. Der vollständige Artikel erscheint in Kürze.
 </blog-teaser>
 
 *Dieser Beitrag ist Teil der FreeData-Roadmap.*  
