@@ -12,7 +12,7 @@ permalink: /impressum/
 
   <h3>Angaben gemäß § 5 TMG</h3>
   <p>
-    Stefan Bergmann <br/>
+    **Stefan Bergmann** <br/>
     Pyrbaumer Weg 8a <br/>
     90502 Schwarzenbruck, Germany <br/>
     Deutschland
@@ -20,10 +20,10 @@ permalink: /impressum/
 
 <br>
   <p>
-    📞 Telefon: +49 9183 277 3999 <br>
-    📱 Mobile: +49 162 42 86 180 <br/>
-    📧 E-Mail: <a href="mailto:shift@freedata.net">shift@freedata.net</a> <br/>
-    🌐 Website: <a href="https://www.freedata.net">www.freedata.net</a>
+    Telefon: +49 9183 277 3999 <br>
+    Mobile: +49 162 42 86 180 <br/>
+    E-Mail: <a href="mailto:shift@freedata.net">shift@freedata.net</a> <br/>
+    Website: <a href="https://www.freedata.net">www.freedata.net</a>
   </p>
 
 <br>
