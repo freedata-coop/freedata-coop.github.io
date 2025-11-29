@@ -4,7 +4,7 @@ title: "Warum der Mittelstand seine digitale Souveränität verloren hat"
 description: ""
 date: 2025-11-29
 theme: light
-published: false
+published: false #true to show
 ---
 
 <blog-teaser>
