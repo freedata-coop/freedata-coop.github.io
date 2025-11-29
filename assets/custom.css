@@ -218,6 +218,7 @@ blog-teaser {
   font-size: clamp(20px,3vw,28px);
   letter-spacing: 0px;
   color: var(--fg);
+  line-height: 1;
 }
 
 .post-meta{
