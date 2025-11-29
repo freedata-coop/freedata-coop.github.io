@@ -155,9 +155,10 @@ blog-teaser{ display:none; }
 /* Titel links dominant */
 .blog-title{
   margin: 0;
-  font-size: clamp(20px,3vw,28px);
+  font-size: clamp(20px,3vw,24px);
   line-height: 1.15;
 }
+
 .blog-title a{
   color: var(--fg);
   border-bottom: 0;
@@ -166,8 +167,8 @@ blog-teaser{ display:none; }
 
 /* Datum rechts klein & ruhig */
 .blog-date{
-  font-size: 12px;
-  color: var(--muted);
+  font-size: 11px;
+  color: #999;
   text-transform: uppercase;
   letter-spacing: .12em;
   white-space: nowrap;
@@ -186,11 +187,16 @@ blog-teaser{ display:none; }
 /* Weiterlesen-Link schlicht */
 .blog-read a{
   font-size: 14px;
-  border-bottom: 1px solid var(--fg);
-  color: var(--fg);
+  color: var(--muted);
+  border-bottom: none;
+  text-decoration: none;
   opacity: .9;
 }
-.blog-read a:hover{ opacity: 1; }
+
+.blog-read a:hover{
+  color: var(--fg);
+  opacity: 1;
+}
 
 
 /* ================= Blog Post Layout ================= */
@@ -238,34 +244,48 @@ blog-teaser{ display:none; }
   align-items:center;
 }
 
-/* Pills wie Year-Nav */
+/* Pills */
 .pager-pill{
+  display:inline-block;
+  padding:6px 14px;
+  border-radius:20px;
+  background:#fff;
   border:1px solid var(--line);
-  padding:6px 12px;
-  border-radius:999px;
-  text-decoration:none;
-  color:var(--fg);
-  opacity:.75;
   font-size:14px;
+  color:var(--fg);
+  margin:0 6px;
+  white-space:nowrap;
+  text-decoration: none;
 }
 
-.pager-pill,
-.pager-pill:visited {
+.pager-pill:visited{
   color: var(--fg) !important;
 }
 
-.pager-pill:hover {
+.pager-pill:hover{
   color: #000 !important;
   border-color: #000 !important;
 }
 
-.pager-archive{
-  opacity:1;
-  font-weight:600;
-  border-color: var(--fg);
+.pager-pill,
+.pager-pill:hover,
+.pager-pill:focus,
+.pager-pill:active{
+  text-decoration: none !important;
 }
 
-.lead .pager-pill {
+/* Fokus-Sichtbarkeit für Pager */
+.pager-pill:focus-visible{
+  outline: 2px solid #000;
+  outline-offset: 2px;
+}
+
+.pager-archive{
+  border-color:var(--fg);
+  color:var(--fg);
+}
+
+.lead .pager-pill{
   font-size: 13px;
   padding:5px 10px;
 }
@@ -342,12 +362,29 @@ blog-teaser{ display:none; }
   opacity:.9;
 }
 
-/* ================= Archiv-link ================= */
+/* ================= Archiv-Link (Blog-Start oben) ================= */
 
 .archive-link{
   font-size:14px;
   border-bottom:1px solid var(--fg);
   text-decoration:none;
   opacity:.8;
+  color: var(--fg);
 }
-.archive-link:hover{ opacity:1; }
+
+.archive-link:hover{
+  opacity:1;
+  text-decoration:none;
+}
+
+/* Fokus-Sichtbarkeit für Archiv-Link */
+.archive-link:focus-visible{
+  outline: 2px solid #000;
+  outline-offset: 2px;
+}
+
+.archive-link,
+.pager-pill.pager-archive:first-of-type{
+  font-size: 13px;
+  padding:4px 11px;
+}
