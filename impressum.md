@@ -2,6 +2,7 @@
 title: Impressum
 layout: page_no_title
 permalink: /impressum/
+sitemap: false
 ---
 
 <section class="legal">
