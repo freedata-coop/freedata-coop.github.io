@@ -1,3 +1,4 @@
+
 # **A. Themen, die die Grundidee erklären (für neue Interessenten)**
 
 ## **1. Warum der Mittelstand seine digitale Souveränität verloren hat**
@@ -92,6 +93,13 @@
 (Strategisches Thema, gut teilbar.)
 
 ---
+
+# Sonstige Themen 
+
+## 1. Datenschutz & Datenschleudern
+(Warum es wichtig ist, die eigenen Daten zu kontrollieren)
+
+
 
 # **Kurz bewertet: Welche 5 Themen Mitglieder am schnellsten bringen**
 
