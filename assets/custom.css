@@ -92,12 +92,13 @@ p{
 
 /* Labels */
 .label{
-  display:inline-flex;
+  display:flex;
   align-items:center;
   justify-content:center;
-  min-width: 140px;
-  padding:6px 14px;
+  width: 150px;                 /* fix */
+  height: 30px;
   color: var(--mode-accent);
+  padding: 0;
   border:1px solid var(--line);
   border-radius:999px;
   border-color: var(--mode-accent);
@@ -105,9 +106,9 @@ p{
   letter-spacing:.18em;
   text-transform:uppercase;
   color:var(--muted);
-  height: 30px;
   opacity:.85;
 }
+
 
 /* Grid */
 .grid{
@@ -128,12 +129,16 @@ p{
 
 .head{
   display:grid;
-  gap:8px; /* bewusst kleiner */
+  gap:10px; 
+}
+
+.head h2 {
+  margin-bottom: 10px;
 }
 
 .stack{
   display:grid;
-  gap:16px;
+  gap:22px;
 }
 
 /* Divider */
