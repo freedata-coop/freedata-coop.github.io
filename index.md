@@ -9,7 +9,7 @@ title: FreeData – Kontrolle statt Abhängigkeit.
   <h1>IT funktioniert.<br>Und Abhängigkeiten entstehen.</h1>
 
   <p class="lead">
-    Nicht, weil etwas akut kaputt wäre.<br>
+    Nicht, weil etwas kaputt wäre.<br>
     Sondern weil Entscheidungen schleichend ausgelagert werden.
   </p>
   <div class="row">
