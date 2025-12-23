@@ -160,10 +160,10 @@ title: FreeData – Kontrolle statt Abhängigkeit.
   <div class="stack">
     <div class="head">
       <span class="label">Kontakt</span>
-      <h2>
-        Wenn diese Unterscheidungen für Sie Sinn ergeben,<br>
+      <p>
+        Wenn diese Unterscheidungen für Sie Sinn ergeben,
         dann lohnt sich ein Gespräch.
-      </h2>
+      </p>
     </div>
     <div class="row">
       <a class="cta" href="mailto:shift@freedata.net">
