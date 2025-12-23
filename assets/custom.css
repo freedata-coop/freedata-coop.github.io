@@ -95,7 +95,7 @@ p{
   display:inline-flex;
   align-items:center;
   justify-content:center;
-  min-width: 140px;
+  min-width: 150px;
   padding:6px 14px;
   color: var(--mode-accent);
   border:1px solid var(--line);
@@ -125,10 +125,38 @@ p{
   }
 }
 
-.stack{
-  display:grid;
-  gap:16px;
+/* ================= Head: Label + H2 ================= */
+
+.head{
+  display:flex;
+  flex-direction:column;
+  align-items:flex-start;
+  gap:10px;
 }
+
+/* ================= Stack: typografische Ordnung ================= */
+
+.stack{
+  display:flex;
+  flex-direction:column;
+  align-items:flex-start;
+}
+
+.stack > .head{
+  margin-bottom:22px;
+}
+
+.stack > p,
+.stack > ul{
+  margin-top:0;
+  margin-bottom:16px;
+}
+
+/* Labels minimal beruhigen */
+.label{
+  min-width:150px;
+}
+
 
 /* Divider */
 .divider{
