@@ -150,7 +150,7 @@ title: FreeData – Kontrolle statt Abhängigkeit.
 
 <section class="grid" aria-label="Feststellung und Kontakt">
 
-  <div class="stack manifest">
+  <div class="stack">
     <div class="head">
       <span class="label">Einordnung</span>
       <p>
