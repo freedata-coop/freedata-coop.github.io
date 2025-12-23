@@ -102,6 +102,7 @@ p{
   letter-spacing:.18em;
   text-transform:uppercase;
   color:var(--muted);
+  height: 30px;
   opacity:.85;
 }
 
