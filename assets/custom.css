@@ -3,7 +3,7 @@
   --fg:#ffffff;
   --muted:#b8b8b8;
   --line:#222;
-  --mode-accent: rgba(180, 200, 220, 0.35);
+  --mode-accent: rgba(140, 170, 110, 0.35);
 }
 
 /* Reset & Base */
@@ -65,6 +65,7 @@ h2{
   line-height:1.2;
   letter-spacing:-.01em;
   font-weight:600;
+  color: #f4f4f4;
 }
 
 h3{
@@ -102,6 +103,7 @@ p{
   border:1px solid var(--line);
   border-radius:999px;
   border-color: var(--mode-accent);
+  background: rgba(255,255,255,0.01);
   font-size:11px;
   letter-spacing:.18em;
   text-transform:uppercase;
