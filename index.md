@@ -9,7 +9,7 @@ title: FreeData – Kontrolle statt Abhängigkeit.
   <h1>IT funktioniert.<br>Und Abhängigkeiten entstehen.</h1>
 
   <p class="lead">
-    Nicht, weil etwas akut kaputt wäre.<br><br>
+    Nicht, weil etwas akut kaputt wäre.<br>
     Sondern weil Entscheidungen schleichend ausgelagert werden.
   </p>
 
@@ -27,10 +27,8 @@ title: FreeData – Kontrolle statt Abhängigkeit.
 
 <section class="grid" aria-label="Beobachtung und Unterscheidungen">
   <div class="stack">
-    <div class="head">
-      <span class="label">Beobachtung</span>
-      <h2>Kontrolle und Abhängigkeit werden oft verwechselt.</h2>
-    </div>
+    <span class="label">Beobachtung</span>
+    <h2>Kontrolle und Abhängigkeit werden oft verwechselt.</h2>
     <p>
       In Gesprächen mit Unternehmern zeigt sich ein wiederkehrendes Muster:
       IT-Entscheidungen werden nicht bewusst getroffen, sondern aus Bequemlichkeit vermieden.
@@ -44,10 +42,8 @@ title: FreeData – Kontrolle statt Abhängigkeit.
   </div>
 
   <div class="stack">
-    <div class="head">
-      <span class="label">Prozess</span>
-      <h2>Entscheidung und Bequemlichkeit.</h2>
-    </div>
+    <span class="label">Prozess</span>
+    <h2>Entscheidung und Bequemlichkeit.</h2>
     <p>
       Bequemlichkeit ist kein moralisches Problem. Sie ist eine betriebliche Notwendigkeit.
       Problematisch wird sie dort, wo sie Entscheidungen ersetzt.
@@ -70,10 +66,8 @@ title: FreeData – Kontrolle statt Abhängigkeit.
 
 <section class="grid" aria-label="Technische Konkretisierung und Konsequenz">
   <div class="stack">
-    <div class="head">
-       <span class="label">Technik</span>
-       <h2>Besitz ist etwas anderes als Zugriff.</h2>
-    </div>
+    <span class="label">Technik</span>
+    <h2>Besitz ist etwas anderes als Zugriff.</h2>
     <p>
       Technisch zeigt sich diese Verdünnung sehr konkret:
       Systeme können nutzbar sein, ohne verfügbar zu sein.
@@ -89,10 +83,8 @@ title: FreeData – Kontrolle statt Abhängigkeit.
   </div>
 
   <div class="stack">
-    <div class="head">
-      <span class="label">Konsequenz</span>
-      <h2>Warum Einzellösungen nicht skalieren.</h2>
-    </div>
+    <span class="label">Konsequenz</span>
+    <h2>Warum Einzellösungen nicht skalieren.</h2>
     <p>
       Individuelle Optimierung ist sinnvoll. Aber sie skaliert schlecht.
       Jedes Unternehmen, das dieselben Grundentscheidungen immer wieder neu treffen muss,
@@ -109,10 +101,8 @@ title: FreeData – Kontrolle statt Abhängigkeit.
 
 <section class="grid" aria-label="Genossenschaft und Selbstbeschreibung">
   <div class="stack">
-    <div class="head">
-      <span class="label">Organisationslogik</span>
-      <h2>Die Logik einer Genossenschaft.</h2>
-    </div>
+    <span class="label">Organisationslogik</span>
+    <h2>Die Logik einer Genossenschaft.</h2>
     <p>
       Eine Genossenschaft ist keine Ideologie.
       Sie ist eine Organisationsform, die kollektive Vorentscheidungen ermöglicht –
@@ -126,10 +116,8 @@ title: FreeData – Kontrolle statt Abhängigkeit.
   </div>
 
   <div class="stack">
-    <div class="head">
-      <span class="label">FreeData</span>
-      <h2>FreeData als Struktur.</h2>
-    </div>
+    <span class="label">FreeData</span>
+    <h2>FreeData als Struktur.</h2>
     <p>
       FreeData ist keine Plattform. Kein Produktversprechen. Kein Manifest.
       FreeData ist der Versuch, Entscheidungen über IT-Grundlagen kollektiv vorzudenken
@@ -156,13 +144,11 @@ title: FreeData – Kontrolle statt Abhängigkeit.
   </div>
 
   <div class="stack">
-    <div class="head">
-      <span class="label">Kontakt</span>
-      <h2>
-         Wenn diese Unterscheidungen für Sie Sinn ergeben,<br>
-        dann lohnt sich ein Gespräch.
-      </h2>
-    </div>
+    <span class="label">Kontakt</span>
+    <h2>
+      Wenn diese Unterscheidungen für Sie Sinn ergeben,<br>
+      dann lohnt sich ein Gespräch.
+    </h2>
     <div class="row">
       <a class="cta" href="mailto:shift@freedata.net?subject=Kontrolle%20statt%20Abh%C3%A4ngigkeit%20%E2%80%93%20FreeData&body=Kurz%3A%20Was%20ich%20bei%20uns%20sehe%3A%20">
         <span class="dot" aria-hidden="true"></span>
