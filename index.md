@@ -149,14 +149,19 @@ title: FreeData – Kontrolle statt Abhängigkeit.
 <hr class="divider"/>
 
 <section class="grid" aria-label="Feststellung und Kontakt">
-  <div class="manifest">
-    <p>
-      Was unter Souveränität verstanden wird,
-      entscheidet sich nicht an Technologie allein.
-      Sondern daran, wie Entscheidungen
-      unter Abhängigkeit möglich bleiben.
-    </p>
+
+  <div class="stack manifest">
+    <div class="head">
+      <span class="label">Einordnung</span>
+      <p>
+        Was unter Souveränität verstanden wird,
+        entscheidet sich nicht an Technologie allein.
+        Sondern daran, wie Entscheidungen
+        unter Abhängigkeit möglich bleiben.
+      </p>
+    </div>
   </div>
+
   <div class="stack">
     <div class="head">
       <span class="label">Kontakt</span>
