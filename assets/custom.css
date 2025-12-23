@@ -202,3 +202,369 @@ body[theme="light"]{
   --muted:#555;
   --line:#ddd;
 }
+
+/* ====================================== */
+/*   Global, dark, sticky navigation bar  */
+/* ====================================== */
+
+.topnav {
+  position: sticky;
+  top: 0;
+  z-index: 999;
+  background: rgba(0, 0, 0, 0.88); /* dunkle, matte Fläche */
+  backdrop-filter: blur(6px);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+}
+
+.topnav,
+.topnav a{
+  color:#fff !important;
+}
+
+.topnav a{
+  opacity:.75;
+}
+.topnav a:hover{ opacity:1; }
+.topnav a.active{
+  opacity:1;
+  font-weight:600;
+  text-decoration:underline;
+  text-underline-offset:4px;
+}
+
+/* LOGO LINKS – LINKS RECHTS */
+.topnav-inner {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 14px 24px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;   /* <<< HIER PASSIERT DAS MAGIC */
+}
+
+
+.topnav-logo {
+  font-weight: 700;
+  letter-spacing: .04em;
+  text-decoration: none;
+  color: #fff;       /* immer weiß */
+  border-bottom: 0;
+}
+
+.topnav-links {
+  display: flex;
+  align-items: center;
+  gap: 22px;
+  margin-left: auto;                /* <<< ABSICHERUNG */
+}
+
+.topnav-links a {
+  text-decoration: none;
+  border-bottom: 0 !important;
+  color: #ffffff !important;
+  opacity: .75;
+  font-size: 0.95rem;
+  padding: 4px 2px;
+}
+
+.topnav-links a:hover {
+  opacity: 1;
+}
+
+.topnav-links a.active {
+  opacity: 1;
+  font-weight: 600;
+  text-decoration: underline;
+  text-underline-offset: 4px;
+}
+
+/* Mobile */
+@media (max-width: 640px){
+  .topnav-inner { padding: 10px 14px; }
+  .topnav-links { gap: 12px; }
+  .topnav-links a { font-size: .9rem; }
+}
+
+
+/* ================= Compact Blog List ================= */
+
+blog-teaser {
+  display: block;
+  font-weight: 600;
+  font-style: italic;
+  color: #333;
+}
+
+.blog-list{
+  display: grid;
+  gap: 0; /* keine Kartenabstände mehr */
+}
+
+/* Ein Eintrag = eine Zeile mit Trenner */
+.blog-row{
+  padding: 18px 0 20px 0;
+  border-bottom: 1px solid var(--line);
+  display: grid;
+  gap: 8px;
+}
+
+/* Kopfzeile: Titel links, Datum rechts */
+.blog-row-head{
+  display: grid;
+  grid-template-columns: 1fr auto;
+  align-items: baseline;
+  gap: 16px;
+}
+
+/* Titel links dominant */
+.blog-title{
+  margin: 0;
+  font-size: clamp(20px,3vw,24px);
+  line-height: 1.15;
+  font-weight: bold;
+}
+
+.blog-title a{
+  color: var(--fg);
+  border-bottom: 0;
+  text-decoration: none;
+}
+
+/* Datum rechts klein & ruhig */
+.blog-date{
+  font-size: 11px;
+  color: #999;
+  text-transform: uppercase;
+  letter-spacing: .12em;
+  white-space: nowrap;
+  text-align: right;
+}
+
+/* Teaser */
+.blog-excerpt{
+  margin: 0;
+  color: var(--muted);
+  font-size: 16px;
+  line-height: 1.55;
+  max-width: 100ch;
+}
+
+/* Weiterlesen-Link schlicht */
+.blog-read a{
+  font-size: 14px;
+  color: var(--muted);
+  border-bottom: none;
+  text-decoration: none;
+  opacity: .9;
+}
+
+.blog-read a:hover{
+  color: var(--fg);
+  opacity: 1;
+}
+
+
+/* ================= Blog Post Layout ================= */
+
+.post-header{
+  margin-bottom: 10px;
+  display: grid;
+  gap: 4px;
+}
+
+.post-title{
+  margin: 0;
+  font-size: clamp(20px,3vw,28px);
+  letter-spacing: 0px;
+  color: var(--fg);
+  line-height: 1;
+}
+
+.post-meta{
+  font-size: 13px;
+  color: var(--muted);
+  text-transform: uppercase;
+  letter-spacing: .12em;
+}
+
+.post-content{
+  display: grid;
+  gap: 18px;
+  font-size: 18px;
+  line-height: 1.6;
+  max-width: 100ch;
+}
+
+/* ================= Pager ================= */
+
+/* Pager zentriert + feste Reihenfolge */
+.pager{
+  display:flex;
+  justify-content:center;   /* <<< zentriert */
+  margin-top:24px;
+}
+
+.pager-left{
+  display:flex;
+  gap:12px;
+  align-items:center;
+}
+
+/* Pills */
+.pager-pill{
+  display:inline-block;
+  padding:6px 14px;
+  border-radius:20px;
+  background:#fff;
+  border:1px solid var(--line);
+  font-size:14px;
+  color:var(--fg);
+  margin:0 6px;
+  white-space:nowrap;
+  text-decoration: none;
+}
+
+.pager-pill:visited{
+  color: var(--fg) !important;
+}
+
+.pager-pill:hover{
+  color: #000 !important;
+  border-color: #000 !important;
+}
+
+.pager-pill,
+.pager-pill:hover,
+.pager-pill:focus,
+.pager-pill:active{
+  text-decoration: none !important;
+}
+
+/* Fokus-Sichtbarkeit für Pager */
+.pager-pill:focus-visible{
+  outline: 2px solid #000;
+  outline-offset: 2px;
+}
+
+.pager-archive{
+  border-color:var(--fg);
+  color:var(--fg);
+}
+
+.lead .pager-pill{
+  font-size: 13px;
+  padding:5px 10px;
+}
+
+/* ================= Jahres-Nav ================= */
+
+.year-nav{
+  display:flex;
+  flex-wrap:wrap;
+  gap:10px;
+  margin:0 0 18px 0;
+  font-size:13px;
+}
+.year-nav a{
+  border:1px solid var(--line);
+  padding:6px 10px;
+  border-radius:999px;
+  text-decoration:none;
+  color:var(--fg);
+  opacity:.85;
+}
+.year-nav a:hover{ opacity:1; }
+
+.year-head{
+  margin:28px 0 10px 0;
+  font-size:18px;
+  letter-spacing:.08em;
+  text-transform:uppercase;
+  color:var(--muted);
+}
+
+/* Year nav pills */
+.year-nav{
+  display:flex;
+  flex-wrap:wrap;
+  gap:10px;
+  margin:0 0 18px 0;
+  font-size:13px;
+  margin-top: 15px;
+}
+
+.year-nav a{
+  border:1px solid var(--line);
+  padding:6px 10px;
+  border-radius:999px;
+  text-decoration:none;
+  color:var(--fg);
+  opacity:.75;
+  transition:opacity .15s ease, border-color .15s ease;
+}
+
+.year-nav a:hover{ opacity:1; }
+
+/* Active year via :target */
+/* Wenn ein Jahr "angesteuert" wird, highlight den passenden Nav-Link */
+.year-archive .year-head:target{
+  scroll-margin-top: 80px; /* damit Kopf nicht unter Nav klebt */
+}
+
+.year-nav a.is-active{
+  opacity:1;
+  font-weight:600;
+  border-color: var(--fg);
+}
+
+/* Pure CSS highlight des aktiven Jahres */
+.year-archive .year-head:target::after{
+  content:"";
+  display:block;
+  margin-top:8px;
+  height:2px;
+  width:42px;
+  background: var(--fg);
+  opacity:.9;
+}
+
+/* ================= Archiv-Link (Blog-Start oben) ================= */
+
+.archive-link{
+  font-size:14px;
+  border-bottom:1px solid var(--fg);
+  text-decoration:none;
+  opacity:.8;
+  color: var(--fg);
+}
+
+.archive-link:hover{
+  opacity:1;
+  text-decoration:none;
+}
+
+/* Fokus-Sichtbarkeit für Archiv-Link */
+.archive-link:focus-visible{
+  outline: 2px solid #000;
+  outline-offset: 2px;
+}
+
+.archive-link,
+.pager-pill.pager-archive:first-of-type{
+  font-size: 13px;
+  padding:4px 11px;
+}
+
+/* ================= Blog und Archiv (Keine Einträge) ================= */
+
+.empty-state {
+  text-align: center;
+  margin: 4rem 0;
+  color: #666;      
+  font-size: 1.1rem;
+  line-height: 1.6;
+}
+
+.empty-state p {
+  margin: 0.2rem 0;
+}
