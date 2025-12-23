@@ -27,8 +27,10 @@ title: FreeData – Kontrolle statt Abhängigkeit.
 
 <section class="grid" aria-label="Beobachtung und Unterscheidungen">
   <div class="stack">
-    <span class="label">Beobachtung</span>
-    <h2>Kontrolle und Abhängigkeit werden oft verwechselt.</h2>
+    <div class="head">
+      <span class="label">Beobachtung</span>
+      <h2>Kontrolle und Abhängigkeit werden oft verwechselt.</h2>
+    </div>
     <p>
       In Gesprächen mit Unternehmern zeigt sich ein wiederkehrendes Muster:
       IT-Entscheidungen werden nicht bewusst getroffen, sondern aus Bequemlichkeit vermieden.
@@ -42,8 +44,10 @@ title: FreeData – Kontrolle statt Abhängigkeit.
   </div>
 
   <div class="stack">
-    <span class="label">Prozess</span>
-    <h2>Entscheidung und Bequemlichkeit.</h2>
+    <div class="head">
+      <span class="label">Prozess</span>
+      <h2>Entscheidung und Bequemlichkeit.</h2>
+    </div>
     <p>
       Bequemlichkeit ist kein moralisches Problem. Sie ist eine betriebliche Notwendigkeit.
       Problematisch wird sie dort, wo sie Entscheidungen ersetzt.
@@ -66,8 +70,10 @@ title: FreeData – Kontrolle statt Abhängigkeit.
 
 <section class="grid" aria-label="Technische Konkretisierung und Konsequenz">
   <div class="stack">
-    <span class="label">Technik</span>
-    <h2>Besitz ist etwas anderes als Zugriff.</h2>
+    <div class="head">
+       <span class="label">Technik</span>
+       <h2>Besitz ist etwas anderes als Zugriff.</h2>
+    </div>
     <p>
       Technisch zeigt sich diese Verdünnung sehr konkret:
       Systeme können nutzbar sein, ohne verfügbar zu sein.
@@ -83,8 +89,10 @@ title: FreeData – Kontrolle statt Abhängigkeit.
   </div>
 
   <div class="stack">
-    <span class="label">Konsequenz</span>
-    <h2>Warum Einzellösungen nicht skalieren.</h2>
+    <div class="head">
+      <span class="label">Konsequenz</span>
+      <h2>Warum Einzellösungen nicht skalieren.</h2>
+    </div>
     <p>
       Individuelle Optimierung ist sinnvoll. Aber sie skaliert schlecht.
       Jedes Unternehmen, das dieselben Grundentscheidungen immer wieder neu treffen muss,
@@ -101,8 +109,10 @@ title: FreeData – Kontrolle statt Abhängigkeit.
 
 <section class="grid" aria-label="Genossenschaft und Selbstbeschreibung">
   <div class="stack">
-    <span class="label">Organisationslogik</span>
-    <h2>Die Logik einer Genossenschaft.</h2>
+    <div class="head">
+      <span class="label">Organisationslogik</span>
+      <h2>Die Logik einer Genossenschaft.</h2>
+    </div>
     <p>
       Eine Genossenschaft ist keine Ideologie.
       Sie ist eine Organisationsform, die kollektive Vorentscheidungen ermöglicht –
@@ -116,8 +126,10 @@ title: FreeData – Kontrolle statt Abhängigkeit.
   </div>
 
   <div class="stack">
-    <span class="label">FreeData</span>
-    <h2>FreeData als Struktur.</h2>
+    <div class="head">
+      <span class="label">FreeData</span>
+      <h2>FreeData als Struktur.</h2>
+    </div>
     <p>
       FreeData ist keine Plattform. Kein Produktversprechen. Kein Manifest.
       FreeData ist der Versuch, Entscheidungen über IT-Grundlagen kollektiv vorzudenken
@@ -137,18 +149,20 @@ title: FreeData – Kontrolle statt Abhängigkeit.
   <div class="manifest">
     <h3>Eine nüchterne Feststellung</h3>
     <p><br>
-      Nicht Technologie entscheidet über Souveränität.
-      Sondern die Fähigkeit, Entscheidungen gemeinsam zu tragen.<br><br>
-      Und dauerhaft zu sichern.
+      Was unter Souveränität verstanden wird, entscheidet sich 
+      nicht an Technologie allein. Sondern daran, wie 
+      Entscheidungen unter Abhängigkeit möglich bleiben.
     </p>
   </div>
 
   <div class="stack">
-    <span class="label">Kontakt</span>
-    <h2>
-      Wenn diese Unterscheidungen für Sie Sinn ergeben,<br>
-      dann lohnt sich ein Gespräch.
-    </h2>
+    <div class="head">
+      <span class="label">Kontakt</span>
+      <h2>
+         Wenn diese Unterscheidungen für Sie Sinn ergeben,<br>
+        dann lohnt sich ein Gespräch.
+      </h2>
+    </div>
     <div class="row">
       <a class="cta" href="mailto:shift@freedata.net?subject=Kontrolle%20statt%20Abh%C3%A4ngigkeit%20%E2%80%93%20FreeData&body=Kurz%3A%20Was%20ich%20bei%20uns%20sehe%3A%20">
         <span class="dot" aria-hidden="true"></span>

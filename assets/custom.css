@@ -126,6 +126,11 @@ p{
   }
 }
 
+.head{
+  display:grid;
+  gap:8px; /* bewusst kleiner */
+}
+
 .stack{
   display:grid;
   gap:16px;
