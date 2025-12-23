@@ -169,7 +169,7 @@ title: FreeData – Kontrolle statt Abhängigkeit.
       <div class="contact">
         <h2>
           <br>
-          Wenn diese Unterscheidungen für Sie Sinn ergeben,
+          Wenn diese Überlegungen für Sie Sinn ergeben,
           dann lohnt sich ein Gespräch.
         </h2>
       </div>
