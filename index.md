@@ -154,12 +154,11 @@ title: FreeData – Kontrolle statt Abhängigkeit.
     <div class="head">
       <span class="label">Einordnung</span>
       <p>
-        <strong><br>
+        <br>
         Was unter Souveränität verstanden wird,
         entscheidet sich nicht an Technologie allein. 
         Sondern daran, wie Entscheidungen
         unter Abhängigkeit möglich bleiben.
-        </strong>
       </p>
     </div>
   </div>
@@ -169,6 +168,7 @@ title: FreeData – Kontrolle statt Abhängigkeit.
       <span class="label">Kontakt</span>
       <div class="contact">
         <h2>
+          <br>
           Wenn diese Unterscheidungen für Sie Sinn ergeben,
           dann lohnt sich ein Gespräch.
         </h2>
