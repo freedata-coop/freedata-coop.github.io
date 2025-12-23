@@ -94,6 +94,7 @@ p{
 .label{
   display:inline-flex;
   align-items:center;
+  align-self:flex-start;
   justify-content:center;
   width: 150px;
   padding:6px 14px;
@@ -129,8 +130,10 @@ p{
 
 .head{
   display:flex;
+  width:100%;
   flex-direction:column;
   align-items:flex-start;
+  padding-top:2px;
   gap:10px;
 }
 
@@ -152,17 +155,11 @@ p{
   margin-bottom:16px;
 }
 
-/* Labels minimal beruhigen */
-.label{
-  min-width:150px;
-}
-
-
 /* Divider */
 .divider{
   border:0;
   border-top:1px solid var(--line);
-  margin:64px 0;
+  margin:32px 0;
 }
 
 /* Bullets */
