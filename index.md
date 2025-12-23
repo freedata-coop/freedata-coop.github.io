@@ -151,11 +151,11 @@ title: FreeData – Kontrolle statt Abhängigkeit.
 <section class="grid" aria-label="Feststellung und Kontakt">
   <div class="manifest">
     <h3>Eine nüchterne Feststellung</h3>
-    <p>
+    <p><br>
       Nicht Technologie entscheidet über Souveränität.<br>
-      Sondern die Fähigkeit,<br>
-      Entscheidungen gemeinsam zu tragen<br>
-      und dauerhaft zu sichern.
+      <br>
+      Sondern die Fähigkeit, Entscheidungen gemeinsam zu tragen.<br>
+      Und dauerhaft zu sichern.
     </p>
   </div>
 
@@ -165,8 +165,6 @@ title: FreeData – Kontrolle statt Abhängigkeit.
 
     <p>
       dann lohnt sich ein Gespräch.<br>
-      Kein Pitch. Keine Verpflichtung.<br>
-      Ein Satz genügt.
     </p>
 
     <div class="row">
@@ -179,3 +177,5 @@ title: FreeData – Kontrolle statt Abhängigkeit.
     </div>
   </div>
 </section>
+
+<br><br><br>
