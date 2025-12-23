@@ -1,0 +1,411 @@
+:root{--bg:#0b0b0b;--fg:#fff;--muted:#c9c9c9;--line:#222}
+
+*{box-sizing:border-box}
+html,body{height:100%}
+body{margin:0;background:var(--bg);color:var(--fg);font-family:Inter,system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,"Apple Color Emoji","Segoe UI Emoji";line-height:1.35;letter-spacing:.01em;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}
+a{color:var(--fg);text-decoration:none;border-bottom:1px solid var(--fg)}
+a:hover{opacity:.85}
+.wrap{max-width:1100px;margin:0 auto;padding:24px}
+.hero{min-height:92svh;display:grid;align-content:center;gap:28px}
+.kicker{text-transform:uppercase;margin-bottom:5px;letter-spacing:.12em;font-size:12px;color:var(--muted)}
+h1{margin:0;font-size:clamp(42px,8vw,96px);line-height:.95;letter-spacing:-.02em}
+.lead{font-size:clamp(18px,2.8vw,28px);max-width:30ch;color:var(--muted)}
+.cta{display:inline-flex;align-items:center;gap:12px;padding:14px 18px;border:1px solid var(--fg);border-radius:999px;font-weight:600}
+.cta .dot{width:8px;height:8px;background:var(--fg);border-radius:999px;display:inline-block}
+.row{display:flex;flex-wrap:wrap;gap:18px;align-items:center}
+.divider{border:0;border-top:1px solid var(--line);margin:46px 0}
+.divider-small{border:0;border-top:1px solid var(--line);margin:12px 0}
+
+.grid{display:grid;grid-template-columns:1fr;gap:22px}
+@media (min-width:860px){.grid{grid-template-columns:1.1fr .9fr;gap:40px}}
+h2{font-size:clamp(28px,4vw,42px);margin:0;line-height:1.05}
+p{margin:0;color:var(--muted);font-size:clamp(16px,2vw,18px)}
+.stack{display:grid;gap:14px}
+.manifest{border:1px solid var(--line);padding:clamp(16px,3vw,24px);border-radius:16px}
+.manifest h3{margin:0 0 10px;font-size:14px;text-transform:uppercase;letter-spacing:.16em;color:var(--muted)}
+.manifest p{font-size:clamp(18px,2.2vw,22px);color:var(--fg)}
+.bullets{display:grid;gap:8px;margin-top:8px;padding-left:0}
+.bullets li{list-style:none}
+.bullets li::before{content:"— ";color:var(--muted)}
+footer{margin-top:72px;padding:24px 0 48px;color:var(--muted);font-size:14px}
+.tiny{font-size:12px;color:var(--muted)}
+.label{display:inline-block;padding:6px 10px;border:1px solid var(--line);border-radius:999px;font-size:12px;color:var(--muted);text-transform:uppercase;letter-spacing:.16em; height: 30px;}
+.caret{display:inline-block;width:1ch;overflow:hidden}
+.caret::after{content:"›";animation:blink 1.2s steps(1) infinite}
+@keyframes blink{50%{opacity:0}}
+::selection{background:#fff;color:#000}
+
+
+/* Helles Theme für Blog */
+body[theme="light"] {
+  --bg: #fafafa;
+  --fg: #111;
+  --muted: #555;
+  --line: #ddd;
+}
+
+/* ====================================== */
+/*   Global, dark, sticky navigation bar  */
+/* ====================================== */
+
+.topnav {
+  position: sticky;
+  top: 0;
+  z-index: 999;
+  background: rgba(0, 0, 0, 0.88); /* dunkle, matte Fläche */
+  backdrop-filter: blur(6px);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+}
+
+.topnav,
+.topnav a{
+  color:#fff !important;
+}
+
+.topnav a{
+  opacity:.75;
+}
+.topnav a:hover{ opacity:1; }
+.topnav a.active{
+  opacity:1;
+  font-weight:600;
+  text-decoration:underline;
+  text-underline-offset:4px;
+}
+
+/* LOGO LINKS – LINKS RECHTS */
+.topnav-inner {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 14px 24px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;   /* <<< HIER PASSIERT DAS MAGIC */
+}
+
+
+.topnav-logo {
+  font-weight: 700;
+  letter-spacing: .04em;
+  text-decoration: none;
+  color: #fff;       /* immer weiß */
+  border-bottom: 0;
+}
+
+.topnav-links {
+  display: flex;
+  align-items: center;
+  gap: 22px;
+  margin-left: auto;                /* <<< ABSICHERUNG */
+}
+
+.topnav-links a {
+  text-decoration: none;
+  border-bottom: 0 !important;
+  color: #ffffff !important;
+  opacity: .75;
+  font-size: 0.95rem;
+  padding: 4px 2px;
+}
+
+.topnav-links a:hover {
+  opacity: 1;
+}
+
+.topnav-links a.active {
+  opacity: 1;
+  font-weight: 600;
+  text-decoration: underline;
+  text-underline-offset: 4px;
+}
+
+/* Mobile */
+@media (max-width: 640px){
+  .topnav-inner { padding: 10px 14px; }
+  .topnav-links { gap: 12px; }
+  .topnav-links a { font-size: .9rem; }
+}
+
+
+/* ================= Compact Blog List ================= */
+
+blog-teaser {
+  display: block;
+  font-weight: 600;
+  font-style: italic;
+  color: #333;
+}
+
+.blog-list{
+  display: grid;
+  gap: 0; /* keine Kartenabstände mehr */
+}
+
+/* Ein Eintrag = eine Zeile mit Trenner */
+.blog-row{
+  padding: 18px 0 20px 0;
+  border-bottom: 1px solid var(--line);
+  display: grid;
+  gap: 8px;
+}
+
+/* Kopfzeile: Titel links, Datum rechts */
+.blog-row-head{
+  display: grid;
+  grid-template-columns: 1fr auto;
+  align-items: baseline;
+  gap: 16px;
+}
+
+/* Titel links dominant */
+.blog-title{
+  margin: 0;
+  font-size: clamp(20px,3vw,24px);
+  line-height: 1.15;
+  font-weight: bold;
+}
+
+.blog-title a{
+  color: var(--fg);
+  border-bottom: 0;
+  text-decoration: none;
+}
+
+/* Datum rechts klein & ruhig */
+.blog-date{
+  font-size: 11px;
+  color: #999;
+  text-transform: uppercase;
+  letter-spacing: .12em;
+  white-space: nowrap;
+  text-align: right;
+}
+
+/* Teaser */
+.blog-excerpt{
+  margin: 0;
+  color: var(--muted);
+  font-size: 16px;
+  line-height: 1.55;
+  max-width: 100ch;
+}
+
+/* Weiterlesen-Link schlicht */
+.blog-read a{
+  font-size: 14px;
+  color: var(--muted);
+  border-bottom: none;
+  text-decoration: none;
+  opacity: .9;
+}
+
+.blog-read a:hover{
+  color: var(--fg);
+  opacity: 1;
+}
+
+
+/* ================= Blog Post Layout ================= */
+
+.post-header{
+  margin-bottom: 10px;
+  display: grid;
+  gap: 4px;
+}
+
+.post-title{
+  margin: 0;
+  font-size: clamp(20px,3vw,28px);
+  letter-spacing: 0px;
+  color: var(--fg);
+  line-height: 1;
+}
+
+.post-meta{
+  font-size: 13px;
+  color: var(--muted);
+  text-transform: uppercase;
+  letter-spacing: .12em;
+}
+
+.post-content{
+  display: grid;
+  gap: 18px;
+  font-size: 18px;
+  line-height: 1.6;
+  max-width: 100ch;
+}
+
+/* ================= Pager ================= */
+
+/* Pager zentriert + feste Reihenfolge */
+.pager{
+  display:flex;
+  justify-content:center;   /* <<< zentriert */
+  margin-top:24px;
+}
+
+.pager-left{
+  display:flex;
+  gap:12px;
+  align-items:center;
+}
+
+/* Pills */
+.pager-pill{
+  display:inline-block;
+  padding:6px 14px;
+  border-radius:20px;
+  background:#fff;
+  border:1px solid var(--line);
+  font-size:14px;
+  color:var(--fg);
+  margin:0 6px;
+  white-space:nowrap;
+  text-decoration: none;
+}
+
+.pager-pill:visited{
+  color: var(--fg) !important;
+}
+
+.pager-pill:hover{
+  color: #000 !important;
+  border-color: #000 !important;
+}
+
+.pager-pill,
+.pager-pill:hover,
+.pager-pill:focus,
+.pager-pill:active{
+  text-decoration: none !important;
+}
+
+/* Fokus-Sichtbarkeit für Pager */
+.pager-pill:focus-visible{
+  outline: 2px solid #000;
+  outline-offset: 2px;
+}
+
+.pager-archive{
+  border-color:var(--fg);
+  color:var(--fg);
+}
+
+.lead .pager-pill{
+  font-size: 13px;
+  padding:5px 10px;
+}
+
+/* ================= Jahres-Nav ================= */
+
+.year-nav{
+  display:flex;
+  flex-wrap:wrap;
+  gap:10px;
+  margin:0 0 18px 0;
+  font-size:13px;
+}
+.year-nav a{
+  border:1px solid var(--line);
+  padding:6px 10px;
+  border-radius:999px;
+  text-decoration:none;
+  color:var(--fg);
+  opacity:.85;
+}
+.year-nav a:hover{ opacity:1; }
+
+.year-head{
+  margin:28px 0 10px 0;
+  font-size:18px;
+  letter-spacing:.08em;
+  text-transform:uppercase;
+  color:var(--muted);
+}
+
+/* Year nav pills */
+.year-nav{
+  display:flex;
+  flex-wrap:wrap;
+  gap:10px;
+  margin:0 0 18px 0;
+  font-size:13px;
+  margin-top: 15px;
+}
+
+.year-nav a{
+  border:1px solid var(--line);
+  padding:6px 10px;
+  border-radius:999px;
+  text-decoration:none;
+  color:var(--fg);
+  opacity:.75;
+  transition:opacity .15s ease, border-color .15s ease;
+}
+
+.year-nav a:hover{ opacity:1; }
+
+/* Active year via :target */
+/* Wenn ein Jahr "angesteuert" wird, highlight den passenden Nav-Link */
+.year-archive .year-head:target{
+  scroll-margin-top: 80px; /* damit Kopf nicht unter Nav klebt */
+}
+
+.year-nav a.is-active{
+  opacity:1;
+  font-weight:600;
+  border-color: var(--fg);
+}
+
+/* Pure CSS highlight des aktiven Jahres */
+.year-archive .year-head:target::after{
+  content:"";
+  display:block;
+  margin-top:8px;
+  height:2px;
+  width:42px;
+  background: var(--fg);
+  opacity:.9;
+}
+
+/* ================= Archiv-Link (Blog-Start oben) ================= */
+
+.archive-link{
+  font-size:14px;
+  border-bottom:1px solid var(--fg);
+  text-decoration:none;
+  opacity:.8;
+  color: var(--fg);
+}
+
+.archive-link:hover{
+  opacity:1;
+  text-decoration:none;
+}
+
+/* Fokus-Sichtbarkeit für Archiv-Link */
+.archive-link:focus-visible{
+  outline: 2px solid #000;
+  outline-offset: 2px;
+}
+
+.archive-link,
+.pager-pill.pager-archive:first-of-type{
+  font-size: 13px;
+  padding:4px 11px;
+}
+
+/* ================= Blog und Archiv (Keine Einträge) ================= */
+
+.empty-state {
+  text-align: center;
+  margin: 4rem 0;
+  color: #666;      
+  font-size: 1.1rem;
+  line-height: 1.6;
+}
+
+.empty-state p {
+  margin: 0.2rem 0;
+}
