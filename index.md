@@ -6,16 +6,9 @@ title: FreeData – Kontrolle statt Abhängigkeit.
 <section class="hero" aria-label="Einstieg">
   <div class="kicker">FreeData · <em>Selbstbeschreibung</em></div>
 
-  <h1>Viele Unternehmen erleben, dass ihre IT funktioniert – 
-  und sich dennoch Abhängigkeiten aufbauen.
-  </h1>
+  <h1>IT funktioniert.<br>Und Abhängigkeiten entstehen.</h1>
 
   <p class="lead">
-    IT läuft. Systeme sind verfügbar. Prozesse sind digitalisiert.<br>
-    Und dennoch entsteht in vielen Unternehmen ein diffuses Gefühl von Abhängigkeit.
-  </p>
-
-  <p class="lead" style="font-size: 1.05em; opacity: 0.95;">
     Nicht, weil etwas akut kaputt wäre.<br>
     Sondern weil Entscheidungen schleichend ausgelagert werden.
   </p>
