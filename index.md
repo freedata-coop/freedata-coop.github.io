@@ -33,6 +33,7 @@ title: FreeData – Kontrolle statt Abhängigkeit.
     <p>
       In Gesprächen mit Unternehmern zeigt sich ein wiederkehrendes Muster:
       IT-Entscheidungen werden nicht bewusst getroffen, sondern aus Bequemlichkeit vermieden.
+      <br><br>
       Standardlösungen sind sofort einsatzbereit – und genau deshalb wird selten gefragt,
       welche Abhängigkeiten damit langfristig entstehen.
     </p>
