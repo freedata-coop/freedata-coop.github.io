@@ -1,0 +1,9 @@
+<header class="topnav" aria-label="Hauptnavigation">
+  <div class="topnav-inner">
+    <nav class="topnav-links">
+      <a href="/" class="{% if page.url == '/' %}active{% endif %}">Start</a>
+      <a href="mailto:shift@freedata.net">Kontakt</a>
+      <a href="{{ '/blog/' | relative_url }}" class="{% if page.url contains '/blog' %}active{% endif %}">Blog</a>
+    </nav>
+  </div>
+</header>
