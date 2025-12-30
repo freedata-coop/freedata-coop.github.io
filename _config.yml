@@ -3,13 +3,8 @@ description: Genossenschaft für digitale Souveränität. Eigentum statt Abhäng
 
 url: "https://www.freedata.net"  
 
-theme: minima
+theme: null
 markdown: kramdown
-
-minima:
-  skin: classic
-  include_css:
-    - /assets/css/custom.css
 
 plugins:
   - jekyll-paginate
