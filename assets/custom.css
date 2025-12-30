@@ -74,7 +74,7 @@ a:hover{
 .site-footer{
   text-align:center;
   font-size:0.9rem;
-  border-top:1px solid #ddd;
+  border-top:1px solid var(--muted);
   padding:12px 0 18px 0;   /* vorher zu viel */
 }
 
@@ -88,17 +88,13 @@ a:hover{
 
 .site-footer a,
 .site-footer a:visited {
-  color: var(--fg);
+  color: var(--muted);
   text-decoration: none !important;
 }
 
 .site-footer a:hover {
   color: var(--fg);
   text-decoration: none !important;
-}
-
-.footer-link {
-  margin-right: 1rem;
 }
 
 .footer-link:not(:last-child)::after {
