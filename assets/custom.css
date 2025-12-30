@@ -10,15 +10,30 @@
 
 *{box-sizing:border-box} 
 html,body{height:100%}
+
+body[theme="light"]{
+  --bg:#fafafa;
+  --fg:#111;
+  --muted:#555;
+  --line:#ddd;
+  -webkit-font-smoothing:antialiased;
+  -moz-osx-font-smoothing:grayscale;
+}
+
+body[theme="dark"]{
+  --bg:#111;
+  --fg:#fafafa;
+  --muted:#555;
+  --line:#ddd;
+  -webkit-font-smoothing:antialiased;
+  -moz-osx-font-smoothing:grayscale;
+}
+
 body{
   margin:0;
   background:var(--bg);
   color:var(--fg);
   font-family:Inter,system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial;
-  /* line-height:1.55;
-  letter-spacing:.01em; */
-  -webkit-font-smoothing:antialiased;
-  -moz-osx-font-smoothing:grayscale;
 }
 
 /* ================= Basisset Links ================= */
@@ -69,7 +84,6 @@ a:hover{
 .site-footer{
   text-align:center;
   font-size:0.9rem;
-  color:#666;
   border-top:1px solid #ddd;
   padding:12px 0 18px 0;   /* vorher zu viel */
 }
@@ -84,12 +98,12 @@ a:hover{
 
 .site-footer a,
 .site-footer a:visited {
-  color: #666 !important;
+  color: var(--fg);
   text-decoration: none !important;
 }
 
 .site-footer a:hover {
-  color: #000 !important;
+  color: var(--bg);
   text-decoration: none !important;
 }
 
@@ -100,7 +114,6 @@ a:hover{
 .footer-link:last-child {
   margin-right: 0;
 }
-
 
 /* ================= Typografie & Abstände ================= */
 
@@ -270,14 +283,6 @@ p{
 ::selection{
   background:#fff;
   color:#000;
-}
-
-/* Light Theme */
-body[theme="light"]{
-  --bg:#fafafa;
-  --fg:#111;
-  --muted:#555;
-  --line:#ddd;
 }
 
 /* ====================================== */

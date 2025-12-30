@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page_no_title
 title: FreeData – Kontrolle statt Abhängigkeit.
 ---
 

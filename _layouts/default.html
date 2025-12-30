@@ -29,13 +29,14 @@
     {% endif %}
     <link rel="stylesheet" href="{{ '/assets/custom.css' | relative_url }}">
 
-
   </head>
 
   <body theme="{{ page.theme | default: 'dark' }}">
     {% include header.html %}
-    <main class="wrap" aria-label="Content">
+    <main class="page-content" aria-label="Content">
+      <div class="wrapper">
         {{ content }}
+      </div>
     </main>
     {% include footer.html %}
   </body>
