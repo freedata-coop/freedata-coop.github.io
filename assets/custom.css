@@ -55,8 +55,8 @@ a:hover{
 
 body[theme="dark"] .wrapper {
   max-width: 1000px;
+  h1 { font-size: 40px;}
 }
-
 
 /* Hero */
 .hero{
