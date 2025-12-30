@@ -26,13 +26,14 @@
   </head>
 
   <body theme="{{ page.theme | default: 'dark' }}">
+
     {% include header.html %}
     <main class="wrap" aria-label="Content">
       <div class="wrapper">
         {{ content }}
       </div>
-    {% include footer.html %}
     </main>
+    {% include footer.html %}
 
     <script>document.getElementById('y').textContent=new Date().getFullYear()</script>
     <noscript>Diese Seite funktioniert auch ohne JavaScript.</noscript>
