@@ -35,19 +35,19 @@ a:hover{
 /* Layout */
 .wrap{
   /* max-width:1000px; */
-  max-width: 750px;
+  max-width: 950px;
   margin:0 auto;
   padding:28px 24px;
 }
 
-.page-content{
+/* .page-content{
   padding-top: 12px;  
 }
 
 .wrapper {
   padding-right: 5px;
   padding-left: 5px;
-}
+} */
 
 /* Hero */
 .hero{
