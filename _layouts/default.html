@@ -24,9 +24,6 @@
     <!-- Google Search Console -->
     <meta name="google-site-verification" content="wECZacZNSOQfNBQVr2R3FvA-sts_Oc2kYKgjk3t4mYI" />
 
-    {% if site.theme %}
-      <link rel="stylesheet" href="{{ '/assets/main.css' | relative_url }}">
-    {% endif %}
     <link rel="stylesheet" href="/assets/css/custom.css">
 
   </head>
@@ -34,11 +31,12 @@
   <body>
     {% include header.html %}
     <main class="page-content" aria-label="Content">
-      <div class="wrapper">
+      <div class="wrap">
         {{ content }}
       </div>
     </main>
     {% include footer.html %}
   </body>
+
 
 </html>
