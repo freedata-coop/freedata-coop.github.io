@@ -30,10 +30,8 @@
 
   <body theme="{{ page.theme | default: 'dark' }}">
     {% include header.html %}
-    <main class="page-content" aria-label="Content">
-      <div class="wrap">
+    <main class="wrap" aria-label="Content">
         {{ content }}
-      </div>
     </main>
     {% include footer.html %}
   </body>
