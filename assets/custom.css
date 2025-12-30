@@ -221,6 +221,7 @@ p{
 .stack > ul{
   margin-top:0;
   margin-bottom:16px;
+  margin-left: 10px;
 }
 
 /* Divider */
@@ -233,7 +234,6 @@ p{
 /* Bullets */
 .bullets{
   display:grid;
-  gap:8px;
   padding-left:0;
 }
 .bullets li{
@@ -320,7 +320,6 @@ p{
   align-items: center;
   justify-content: space-between;   /* <<< HIER PASSIERT DAS MAGIC */
 }
-
 
 .topnav-logo {
   font-weight: 700;
