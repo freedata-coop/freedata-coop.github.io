@@ -23,6 +23,8 @@ body[theme="dark"]{
   --line:#222;;
   -webkit-font-smoothing:antialiased;
   -moz-osx-font-smoothing:grayscale;
+  h1 { font-size: 40px;}
+ .wrapper { max-width: 1000px; }
 }
 
 body{
@@ -45,17 +47,13 @@ a:hover{
 
 .page-content{
   padding-top: 12px;  
+  min-height:78svh;
 }
 
 .wrapper {
   padding-right: 5px;
   padding-left: 5px;
 } 
-
-body[theme="dark"] .wrapper {
-  max-width: 1000px;
-  h1 { font-size: 40px;}
-}
 
 /* Hero */
 .hero{
