@@ -32,7 +32,7 @@ body[theme="dark"]{
 body{
   margin:0;
   background:var(--bg);
-  color:var(--fg);
+  color:var(--muted);
   font-family:Inter,system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial;
 }
 
@@ -103,7 +103,7 @@ a:hover{
 }
 
 .site-footer a:hover {
-  color: var(--bg);
+  color: var(--fg);
   text-decoration: none !important;
 }
 
