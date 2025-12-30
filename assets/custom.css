@@ -39,6 +39,15 @@ a:hover{
   padding:28px 24px;
 }
 
+.page-content{
+  padding-top: 12px;  
+}
+
+.wrapper {
+  padding-right: 5px;
+  padding-left: 5px;
+}
+
 /* Hero */
 .hero{
   min-height:78svh;
