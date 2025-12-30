@@ -317,27 +317,34 @@ body[theme="light"]{
   .topnav-links a { font-size: .9rem; }
 }
 
-
-/* ================= Compact Blog List ================= */
+/* ================= Shared Blog / Archiv Styles ================= */
 
 blog-teaser {
   display: block;
-  font-weight: 600;
   font-style: italic;
   color: #333;
+  font-size: 16px;
+  padding-bottom: 15px;
+}
+
+.blog-meta {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
 }
 
 .blog-list{
-  display: grid;
-  gap: 0; /* keine Kartenabstände mehr */
+  display:grid;
+  gap:0;
+  margin-top: 8px; /* dazu */
 }
 
 /* Ein Eintrag = eine Zeile mit Trenner */
 .blog-row{
-  padding: 18px 0 20px 0;
-  border-bottom: 1px solid var(--line);
+  padding: 0px 0 20px 0;
+  border-bottom: 1px solid #eee; /* statt var(--line) = #ddd */
   display: grid;
-  gap: 8px;
+  gap: 4px;
 }
 
 /* Kopfzeile: Titel links, Datum rechts */
@@ -352,22 +359,25 @@ blog-teaser {
 .blog-title{
   margin: 0;
   font-size: clamp(20px,3vw,24px);
-  line-height: 1.15;
-  font-weight: bold;
+  padding-bottom: 5px;
 }
 
 .blog-title a{
   color: var(--fg);
   border-bottom: 0;
   text-decoration: none;
+  opacity: 0.8;
 }
 
-/* Datum rechts klein & ruhig */
+.blog-title a:hover{
+  text-decoration: none;
+  opacity: 1;
+}
+
 .blog-date{
-  font-size: 11px;
-  color: #999;
+  color: #333;
+  font-size: 0.8rem;
   text-transform: uppercase;
-  letter-spacing: .12em;
   white-space: nowrap;
   text-align: right;
 }
@@ -375,10 +385,14 @@ blog-teaser {
 /* Teaser */
 .blog-excerpt{
   margin: 0;
-  color: var(--muted);
   font-size: 16px;
-  line-height: 1.55;
-  max-width: 100ch;
+  font-style: italic;
+  color: #333;
+}
+
+.blog-read {
+  padding-top: 5px;
+  text-align: right;
 }
 
 /* Weiterlesen-Link schlicht */
@@ -395,44 +409,40 @@ blog-teaser {
   opacity: 1;
 }
 
-
-/* ================= Blog Post Layout ================= */
-
-.post-header{
-  margin-bottom: 10px;
-  display: grid;
-  gap: 4px;
+.blog-tags {
+  color: #333;
+  font-size: 0.8rem;
+  word-spacing: 0.3rem;
 }
 
-.post-title{
-  margin: 0;
-  font-size: clamp(20px,3vw,28px);
-  letter-spacing: 0px;
-  color: var(--fg);
-  line-height: 1;
+.blog-tags .tag:not(:last-child)::after {
+  content: " · ";
+  margin: 0 0.25rem;
 }
 
-.post-meta{
-  font-size: 13px;
-  color: var(--muted);
-  text-transform: uppercase;
-  letter-spacing: .12em;
+.blog-post h2, .blog-post h3, .blog-post h4 {
+  margin-top: 0px;
 }
 
-.post-content{
-  display: grid;
-  gap: 18px;
-  font-size: 18px;
-  line-height: 1.6;
-  max-width: 100ch;
+.blog-post hr {
+  margin: -0.8rem 0 0.5rem 0;
+}
+
+.blog-post-content {
+  max-width: 42rem; 
+  margin-top: 20px;
+}
+
+.blog-post-content p {
+  text-align: justify;
+  hyphens: auto;
 }
 
 /* ================= Pager ================= */
 
-/* Pager zentriert + feste Reihenfolge */
 .pager{
   display:flex;
-  justify-content:center;   /* <<< zentriert */
+  justify-content:center;
   margin-top:24px;
 }
 
@@ -488,41 +498,14 @@ blog-teaser {
   padding:5px 10px;
 }
 
-/* ================= Jahres-Nav ================= */
+/* ================= Jahres-Nav (Archiv) ================= */
 
 .year-nav{
   display:flex;
   flex-wrap:wrap;
   gap:10px;
-  margin:0 0 18px 0;
+  margin:15px 0 18px 0;
   font-size:13px;
-}
-.year-nav a{
-  border:1px solid var(--line);
-  padding:6px 10px;
-  border-radius:999px;
-  text-decoration:none;
-  color:var(--fg);
-  opacity:.85;
-}
-.year-nav a:hover{ opacity:1; }
-
-.year-head{
-  margin:28px 0 10px 0;
-  font-size:18px;
-  letter-spacing:.08em;
-  text-transform:uppercase;
-  color:var(--muted);
-}
-
-/* Year nav pills */
-.year-nav{
-  display:flex;
-  flex-wrap:wrap;
-  gap:10px;
-  margin:0 0 18px 0;
-  font-size:13px;
-  margin-top: 15px;
 }
 
 .year-nav a{
@@ -535,12 +518,28 @@ blog-teaser {
   transition:opacity .15s ease, border-color .15s ease;
 }
 
-.year-nav a:hover{ opacity:1; }
+.year-nav a:hover{
+  opacity:1;
+  text-decoration:none;
+}
 
-/* Active year via :target */
-/* Wenn ein Jahr "angesteuert" wird, highlight den passenden Nav-Link */
+/* Fokus-Sichtbarkeit für Jahresnavigation */
+.year-nav a:focus-visible{
+  outline: 2px solid #000;
+  outline-offset: 2px;
+}
+
+.year-head{
+  margin:28px 0 10px 0;
+  font-size:18px;
+  letter-spacing:.08em;
+  text-transform:uppercase;
+  color:var(--muted);
+}
+
+/* Ziel-Jahr + Highlight-Linie */
 .year-archive .year-head:target{
-  scroll-margin-top: 80px; /* damit Kopf nicht unter Nav klebt */
+  scroll-margin-top: 80px;
 }
 
 .year-nav a.is-active{
@@ -549,7 +548,6 @@ blog-teaser {
   border-color: var(--fg);
 }
 
-/* Pure CSS highlight des aktiven Jahres */
 .year-archive .year-head:target::after{
   content:"";
   display:block;
