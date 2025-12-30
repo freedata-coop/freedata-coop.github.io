@@ -28,7 +28,7 @@
 
   </head>
 
-  <body>
+  <body theme="{{ page.theme | default: 'dark' }}">
     {% include header.html %}
     <main class="page-content" aria-label="Content">
       <div class="wrap">
@@ -37,6 +37,5 @@
     </main>
     {% include footer.html %}
   </body>
-
 
 </html>
