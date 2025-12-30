@@ -47,7 +47,6 @@ a:hover{
 
 .page-content{
   padding-top: 12px;  
-  min-height:78svh;
 }
 
 .wrapper {
@@ -57,7 +56,7 @@ a:hover{
 
 /* Hero */
 .hero{
-  min-height:78svh;
+  min-height:80svh;
   display:grid;
   align-content:center;
   gap:24px;
