@@ -1,8 +1,4 @@
 :root{
-  --bg:#0b0b0b;
-  --fg:#ffffff;
-  --muted:#b8b8b8;
-  --line:#222;
   --mode-accent: rgba(140, 170, 110, 0.35);
 }
 
@@ -21,10 +17,10 @@ body[theme="light"]{
 }
 
 body[theme="dark"]{
-  --bg:#111;
+  --bg:#0b0b0b;
   --fg:#fafafa;
-  --muted:#555;
-  --line:#ddd;
+  --muted:#b8b8b8;
+  --line:#222;;
   -webkit-font-smoothing:antialiased;
   -moz-osx-font-smoothing:grayscale;
 }
@@ -32,7 +28,7 @@ body[theme="dark"]{
 body{
   margin:0;
   background:var(--bg);
-  color:var(--muted);
+  color:var(--fg);
   font-family:Inter,system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial;
 }
 
