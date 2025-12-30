@@ -56,7 +56,7 @@ a:hover{
 
 /* Hero */
 .hero{
-  min-height:95svh;
+  min-height:85svh;
   display:grid;
   align-content:center;
   gap:24px;
