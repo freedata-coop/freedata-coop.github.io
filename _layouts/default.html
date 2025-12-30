@@ -24,6 +24,9 @@
     <!-- Google Search Console -->
     <meta name="google-site-verification" content="wECZacZNSOQfNBQVr2R3FvA-sts_Oc2kYKgjk3t4mYI" />
 
+    {% if site.theme %}
+      <link rel="stylesheet" href="{{ '/assets/main.css' | relative_url }}">
+    {% endif %}
     <link rel="stylesheet" href="{{ '/assets/custom.css' | relative_url }}">
 
 
