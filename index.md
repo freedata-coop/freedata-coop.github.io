@@ -182,6 +182,4 @@ title: FreeData – Kontrolle statt Abhängigkeit.
       <span class="tiny">Schreiben Sie uns.<br>Ein Satz genügt.</span>
     </div>
   </div>
-
 </section>
-<br><br><br>
