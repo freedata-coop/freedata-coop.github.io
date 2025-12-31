@@ -64,7 +64,8 @@ a:hover{
 
 .kicker{
   text-transform:uppercase;
-  letter-spacing:.18em;
+  margin-bottom:5px;
+  letter-spacing:.12em;
   font-size:11px;
   color:var(--muted);
 }
