@@ -11,6 +11,9 @@ layout: page_no_title
   <hr>
 
   <div class="blog-meta">
+    <div class="blog-date">
+      {{ page.date | date: "%d.%m.%Y" }}
+    </div>
     {% if page.tags %}
     <div class="blog-tags">
       {% for tag in page.tags %}
@@ -18,9 +21,7 @@ layout: page_no_title
       {% endfor %}
     </div>
     {% endif %}
-    <div class="blog-date">
-      {{ page.date | date: "%d.%m.%Y" }}
-    </div>
+
   </div>
 
   <div class="blog-post-content">

@@ -370,7 +370,7 @@ blog-teaser {
 }
 
 .blog-meta {
-  display: flex;
+  display: block;
   justify-content: space-between;
   align-items: center;
 }
@@ -422,7 +422,7 @@ blog-teaser {
   font-size: 0.8rem;
   text-transform: uppercase;
   white-space: nowrap;
-  text-align: right;
+  text-align: left;
 }
 
 /* Teaser */
