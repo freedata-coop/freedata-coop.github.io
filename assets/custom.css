@@ -387,6 +387,7 @@ blog-teaser {
   border-bottom: 1px solid #eee; /* statt var(--line) = #ddd */
   display: grid;
   gap: 4px;
+  margin-bottom: 20px;
 }
 
 /* Kopfzeile: Titel links, Datum rechts */
