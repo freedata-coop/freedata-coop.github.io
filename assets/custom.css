@@ -418,11 +418,7 @@ blog-teaser {
 }
 
 .blog-date{
-  color: #333;
-  font-size: 0.8rem;
-  text-transform: uppercase;
-  white-space: nowrap;
-  text-align: left;
+  font-weight: bold;
 }
 
 /* Teaser */
@@ -455,7 +451,7 @@ blog-teaser {
 .blog-tags {
   color: #333;
   font-size: 0.8rem;
-  word-spacing: 0.3rem;
+  word-spacing: 0.2rem;
 }
 
 .blog-tags .tag:not(:last-child)::after {

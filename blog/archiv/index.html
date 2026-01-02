@@ -33,15 +33,11 @@ theme: light
       {% for post in y.items %}
       <article class="blog-row">
         <div class="blog-meta">
-          {% if post.tags %}
           <div class="blog-tags">
+            <span class="tag blog-date">{{ post.date | date: "%d.%m.%Y" }}</span>
             {% for tag in post.tags %}
               <span class="tag">{{ tag }}</span>
             {% endfor %}
-          </div>
-          {% endif %}
-          <div class="blog-date">
-            {{ post.date | date: "%d.%m.%Y" }}
           </div>
         </div>
         <div class="blog-row-head">
