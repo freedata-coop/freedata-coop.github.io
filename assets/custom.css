@@ -362,7 +362,7 @@ p{
 /* ================= Shared Blog / Archiv Styles ================= */
 
 blog-teaser {
-  display: block;
+  display: none;
   font-style: italic;
   color: #333;
   font-size: 16px;
@@ -472,7 +472,6 @@ blog-teaser {
 }
 
 .blog-post-content {
-  max-width: 42rem; 
   margin-top: 20px;
 }
 
