@@ -448,6 +448,11 @@ blog-teaser {
   opacity: 1;
 }
 
+.blog-click-marker {
+  font-weight: bold;
+  margin-right: 5px;
+}
+
 .blog-tags {
   color: #333;
   font-size: 0.8rem;

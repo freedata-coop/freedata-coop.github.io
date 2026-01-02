@@ -42,7 +42,7 @@ theme: light
         </div>
         <div class="blog-row-head">
           <h2 class="blog-title">
-            <a href="{{ post.url }}">{{ post.title }}</a>
+            <a href="{{ post.url }}"><span class="click-marker">></span>{{ post.title }}</a>
           </h2>
         </div>
         <p class="blog-excerpt">
@@ -50,7 +50,7 @@ theme: light
         </p>
 
         <div class="blog-read">
-          <a href="{{ post.url }}">Weiterlesen →</a>
+          <a href="{{ post.url }}">Weiterlesen ...</a>
         </div>
       </article>
       {% endfor %}
