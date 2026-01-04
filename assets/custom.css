@@ -66,7 +66,7 @@ a:hover{
   margin-top: -15px;
   font-size: 0.85rem;
   line-height: 1.4;
-  color: var(--mode-accent);
+  color: #555;
   letter-spacing: 0.01em;
 }
 
