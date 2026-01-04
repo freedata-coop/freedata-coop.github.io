@@ -6,6 +6,10 @@ title: FreeData – Kontrolle statt Abhängigkeit.
 <section class="hero" aria-label="Einstieg">
   <div class="kicker">FreeData · <em>Selbstbeschreibung</em></div>
 
+  <p class="meta">
+    FreeData ist ein Denkraum, keine Produktstrategie.
+  </p>
+
   <h1>IT funktioniert.<br>Und Abhängigkeiten entstehen.</h1>
 
   <p class="lead">
