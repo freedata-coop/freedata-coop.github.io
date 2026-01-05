@@ -41,7 +41,7 @@ Was ausgelagert wird, ist dabei nicht nur Gestaltung im formalen Sinn. Es ist et
 
 ## Warum sich das richtig anfühlt
 
-Auslagerung reduziert Komplexität und schafft Ruhe im Alltag. Sie verspricht Professionalität und Sicherheit. Probleme werden verschoben – Risiken ebenfalls. Zumindest auf den ersten Blick. Risiken scheinen kalkulierbar zu werden. Genau wie die Kosten. Sie lassen sich planen. Die Idee des Auslagerns wird belohnt. Nicht sofort, aber über Zeit. Deshalb ist Auslagern keine Nachlässigkeit und kein Unwissen. Auslagern ist rational. Und genau das macht diesen Mechanismus so wirksam.
+Auslagerung reduziert Komplexität und schafft Ruhe im Alltag. Sie verspricht Professionalität und Sicherheit. Probleme werden verschoben – Risiken ebenfalls. Zumindest auf den ersten Blick. Risiken scheinen kalkulierbar zu werden. Genau wie die Kosten. Sie lassen sich planen. Die Idee des Auslagerns wird belohnt. Nicht sofort, aber über Zeit. Deshalb ist Auslagern keine Nachlässigkeit und kein Unwissen. **Auslagern ist rational.** Und genau das macht diesen Mechanismus so wirksam.
 
 ## Der Punkt, an dem Kontrolle verschwindet
 
@@ -67,4 +67,4 @@ Deshalb geht es hier nicht um vordefinierte Lösungen, um Alternativen oder um V
 IT funktioniert. 
 Und genau deshalb lohnt es sich genauer hinzusehen.
 
-Nicht, um IT zu reparieren. Sondern zu verstehen, dass IT Strukturen verstärkt und Kontrolle über sie allzuleicht verschwindet, während auf den ersten Blick alles in Ordnung scheint.
+Nicht, um IT zu reparieren. Sondern zu verstehen, dass **IT Strukturen verstärkt** und Kontrolle über sie allzuleicht verschwindet, während auf den ersten Blick alles in Ordnung scheint.
