@@ -1,9 +1,13 @@
 ---
-layout: page_no_title
+layout: post
+theme: light
+
 title: "IT funktioniert. Und Unternehmen verlieren Kontrolle."
 date: 2026-01-05
+
 sitemap: false
 published: true
+
 tags:
  - Strukturelle Entscheidungen
  - Schwindende Kontrolle

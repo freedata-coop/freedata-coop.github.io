@@ -1,11 +1,14 @@
 ---
-layout: page_no_title
+layout: post
+theme: light
+
 title: "What is Lorem Ipsum?"
 description: ""
 date: 2025-11-29
-theme: light
+
 sitemap: false
 published: false #true to show
+
 tags:
  - Lorem
  - Ipsum
