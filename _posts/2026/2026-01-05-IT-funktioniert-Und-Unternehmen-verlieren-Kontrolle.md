@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page_no_title
 title: "IT funktioniert. Und Unternehmen verlieren Kontrolle."
 date: 2026-01-05
 sitemap: false

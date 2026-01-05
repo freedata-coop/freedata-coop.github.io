@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page_no_title
 title: "What is Lorem Ipsum?"
 description: ""
 date: 2025-11-29
