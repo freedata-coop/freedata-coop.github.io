@@ -60,7 +60,7 @@ was einmal entschieden und strukturell festgelegt wurde.
 
 Wer das Problem zu früh technisch beantwortet, hat es oft noch nicht im Ganzen verstanden.
 
-Deshalb geht es hier nicht um vordefinierte Lösungen, um Alternativen oder um Vorschläge, wie Unternehmen besser agieren könnten. Es geht vielmehr um die **Beschreibung eines Zustands.** Denn bevor über Werkzeuge, Plattformen oder Organisationsformen gesprochen werden kann, sollte klar sein, **was in den Unternehmen eigentlich passiert ist.**
+Deshalb kann es zu Beginn nicht um vordefinierte Lösungen, um Alternativen oder um Vorschläge gehen, wie Unternehmen anders agieren könnten. Es geht vielmehr um die **Beschreibung eines Zustands.** Denn bevor über Werkzeuge, Plattformen oder Organisationsformen gesprochen werden kann, sollte klar sein, **was in den Unternehmen eigentlich passiert ist.**
 
 ## Was bleibt noch zu sagen
 
