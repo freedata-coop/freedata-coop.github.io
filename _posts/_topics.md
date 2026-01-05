@@ -1,3 +1,8 @@
+# Weitere Themen aus den Blogs
+- Warum Voreinstellungen Macht haben
+- Warum Entscheidungshoheit kein IT-Thema ist
+- Warum Zusammenarbeit scheitert, obwohl alle rational handeln
+
 
 # **A. Themen, die die Grundidee erklären (für neue Interessenten)**
 
