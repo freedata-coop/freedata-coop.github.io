@@ -411,6 +411,7 @@ blog-teaser {
   margin: 0;
   font-size: clamp(20px,3vw,24px);
   padding-bottom: 5px;
+  margin-top: 0.5em;
 }
 
 .blog-title a{
