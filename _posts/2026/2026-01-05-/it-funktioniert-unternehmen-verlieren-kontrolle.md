@@ -47,7 +47,7 @@ Kontrolle geht nicht verloren, nur weil Verträge mit Dienstleistern unterzeichn
 
 Was einmal als Entlastung begann, wird zur manifestierten Struktur. Und diese Strukturen sind meist sehr träge. So verschiebt sich im Laufe der Zeit das Gesamtsystem in Richtung Voreinstellung. Irgendwann ist nicht mehr klar, wer eigentlich entschieden hat – oder wer in Zukunft noch entscheiden könnte, selbst wenn man wollte. Was dabei häufig übersehen wird: Der daraus entstehende Kontrollverlust wird oft als technisches Problem missverstanden.
 
-## Kein Technikproblem
+## Notwendige Abgrenzung
 
 In dieser Betrachtung des Kontrollverlusts geht es nicht um Technologien oder Anbieter. Nicht um Cloud, On-Premise oder privates Hosting. Nicht um Open Source oder proprietäre Systeme. All diese Diskussionen greifen zu kurz. Denn das Problem liegt nicht in der Technik, sondern in der **Verlagerung von Entscheidungshoheit.** Technik wirkt nur als Verstärker dessen, was einmal entschieden und strukturell festgelegt wurde. Die sich daraus ergebende Abgrenzung ist notwendig, um den Blick nicht vorschnell zu verengen. Denn wer das Problem zu früh technisch beantwortet, hat es oft noch nicht im Ganzen verstanden.
 
