@@ -59,7 +59,4 @@ Deshalb kann es zu Beginn nicht um vordefinierte Lösungen, um Alternativen oder
 
 ## Was bleibt noch zu sagen
 
-IT funktioniert. 
-Und genau deshalb lohnt es sich, genauer hinzusehen.
-
-Nicht, um IT zu reparieren. Sondern zu verstehen, dass **IT Strukturen verstärkt** und Kontrolle über sie allzuleicht verschwindet, während auf den ersten Blick alles in Ordnung scheint.
+IT funktioniert. Und genau deshalb lohnt es sich, genauer hinzusehen. Nicht, um IT zu reparieren. Sondern zu verstehen, dass **IT Strukturen verstärkt** und Kontrolle über sie allzuleicht verschwindet, während auf den ersten Blick alles in Ordnung scheint.
