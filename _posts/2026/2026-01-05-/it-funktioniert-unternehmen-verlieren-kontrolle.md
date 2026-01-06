@@ -55,4 +55,4 @@ Deshalb kann es zu Beginn nicht um vordefinierte Lösungen, um Alternativen oder
 
 ## Kontrollverlust bei funktionierender IT
 
-IT funktioniert. Und genau deshalb lohnt es sich, genauer hinzusehen. Nicht, um an Technik etwas zu ändern. Sondern zu verstehen, dass **IT Strukturen verstärkt**. Denn was strukturell entschieden ist, wird durch IT sichtbarer, wirksamer, stabiler und schwerer umgehbar. So kann auf den ersten Blick alles in Ordnung sein, während Kontrolle über diese Strukturen im Hintergrund verschwindet.
+IT funktioniert. Und genau deshalb lohnt es sich, genauer hinzusehen. Nicht, um an Technik etwas zu ändern. Sondern zu verstehen, dass **IT Strukturen verstärkt**. Denn was strukturell entschieden ist, wird durch IT sichtbarer, wirksamer, stabiler und schwerer umgehbar. So kann auf den ersten Blick alles in Ordnung sein, während Kontrolle über diese Strukturen im Hintergrund immer weiter schwindet.
