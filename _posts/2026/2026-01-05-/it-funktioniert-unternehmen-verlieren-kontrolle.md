@@ -23,7 +23,7 @@ nicht plötzlich, sondern schleichend.
 
 <!--more-->
 
-Budgets werden genehmigt. Projekte werden umgesetzt. IT-Systeme laufen stabil. Digitalisierung schreitet in den Unternehmen sichtbar voran. Und trotzdem berichten immer mehr Unternehmen von einem **unwohlem Gefühl**. Sie arbeiten mit Systemen, die gut funktionieren – aber sie gestalten sie nicht mehr. Freie Möglichkeiten, wie diese Systeme eingesetzt oder weiterentwickelt werden können, versiegen. Die Abhängigkeiten, die sie erzeugen, liegen nicht mehr auf der Hand. Die Spielräume werden enger. Das Interessante: Kontrolle verschwindet hier nicht durch Systemausfälle. Sie verschwindet, während alles läuft. Zu diesem Eindruck etabliert sich in den Unternehmen schnell eine passende Erklärung.
+Budgets werden genehmigt. Projekte werden umgesetzt. IT-Systeme laufen stabil. Digitalisierung schreitet in den Unternehmen sichtbar voran. Und trotzdem berichten immer mehr Unternehmen von einem **unwohlem Gefühl**. Sie arbeiten mit Systemen, die gut funktionieren – aber sie gestalten sie nicht mehr. Freie Möglichkeiten, wie diese Systeme eingesetzt oder weiterentwickelt werden können, versiegen. Die Abhängigkeiten, die sie erzeugen, liegen nicht mehr auf der Hand. Die Spielräume werden enger. Das Interessante: Kontrolle verschwindet hier nicht durch Systemausfälle. Sie verschwindet, während alles funktioniert. Zu diesem Eindruck etabliert sich in den Unternehmen schnell eine passende Erklärung.
 
 ## Die naheliegende Erklärung
 
@@ -33,17 +33,17 @@ Eine gängige Beschreibung der Ursache ist dann schnell zur Hand. Die IT sei zu 
 
 ## Der eigentliche Mechanismus
 
-Denn diese Abhängigkeiten entstehen nicht durch Technik aus sich selbst heraus. Sie entsteht durch schleichend ausgelagerte Entscheidungen – dort, wo Technik Entscheidungen ersetzt. Nicht auf einmal. Selten durch einen großen Strategiewechsel. Vielmehr – und das ist häufig sehr subtil – in vielen kleinen, jeweils vernünftigen Schritten.
+Denn diese Abhängigkeiten entstehen nicht durch Technik aus sich selbst heraus. Sie entstehen durch schleichend ausgelagerte Entscheidungen – dort, wo Technik Entscheidungen ersetzt. Nicht auf einmal. Selten durch einen großen Strategiewechsel. Vielmehr – und das ist häufig sehr subtil – in vielen kleinen, jeweils vernünftigen Schritten.
 
 Entscheidungen über Betrieb, über Architektur, über Datenspeicher, über Standards, über Dienste. Jede einzelne Entscheidung ist für sich nachvollziehbar. Zusammen jedoch folgenreich. Was ausgelagert wird, ist dabei nicht nur Gestaltung im formalen Sinn. Es ist etwas Grundlegenderes: **Verantwortung**. Und genau darin liegt der eigentliche Kern.
 
 ## Warum sich das richtig anfühlt
 
-Auslagerung reduziert Komplexität und schafft Ruhe im Alltag. Sie verspricht Professionalität und Sicherheit. Probleme werden verschoben – Risiken ebenfalls. Zumindest auf den ersten Blick. Risiken scheinen kalkulierbar zu werden. Kosten auch. Die Idee des Auslagerns wird belohnt. Nicht sofort, aber über die Zeit. Deshalb ist Auslagern keine Nachlässigkeit und kein Unwissen. **Auslagern ist Rationalität.** Und genau das macht diesen Mechanismus so wirksam, der die Kontrolle weiter verschiebt. Die entscheidende Frage ist nicht, ob ausgelagert wird, sondern wann aus Auslagerung Struktur wird.
+Auslagerung reduziert Komplexität und schafft Ruhe im Alltag. Sie verspricht Professionalität und Sicherheit. Probleme werden verschoben – Risiken ebenfalls. Zumindest auf den ersten Blick. Risiken scheinen kalkulierbar zu werden. Kosten auch. Die Idee des Auslagerns wird belohnt. Nicht sofort, aber über die Zeit. Deshalb ist Auslagern keine Nachlässigkeit und kein Unwissen. **Auslagern ist Rationalität.** Und genau das macht diesen Mechanismus so wirksam und verschiebt die Kontrolle weiter. Die entscheidende Frage ist somit nicht, ob ausgelagert wird, sondern wann aus Auslagerung Struktur wird.
 
 ## Der Punkt, an dem Kontrolle verschwindet
 
-Dabei geht Kontrolle nicht verloren, nur weil Verträge mit Dienstleistern gezeichnet werden. Sie verschwindet auch nicht, nur weil Systeme ausgelagert werden. Sie verschwindet, wenn spezifische Entscheidungen zu **Voreinstellungen** werden. Dann, wenn Architektur nicht mehr diskutiert wird, sondern bereits gesetzt ist. Wenn Daten dort liegen, wo sie „nun einmal liegen“. Wenn Standards nicht mehr im Diskurs gewählt, sondern vorauseilend automatisiert festgelegt werden.
+Kontrolle geht nicht verloren, nur weil Verträge mit Dienstleistern unterzeichnet werden. Sie verschwindet auch nicht, nur weil Systeme ausgelagert werden. Sie verschwindet, wenn spezifische Entscheidungen zu **Voreinstellungen** werden. Dann, wenn Architektur nicht mehr diskutiert wird, sondern bereits gesetzt ist. Wenn Daten dort liegen, wo sie „nun einmal liegen“. Wenn Standards nicht mehr im Diskurs gewählt, sondern vorauseilend automatisiert festgelegt werden.
 
 Was einmal als Entlastung begann, wird zur manifestierten Struktur. Und diese Strukturen sind meist sehr träge. So verschiebt sich im Laufe der Zeit das Gesamtsystem in Richtung Voreinstellung. Irgendwann ist nicht mehr klar, wer eigentlich entschieden hat – oder wer in Zukunft noch entscheiden könnte, selbst wenn man wollte. Was dabei häufig übersehen wird: Der daraus entstehende Kontrollverlust wird oft als technisches Problem missverstanden.
 
@@ -53,6 +53,6 @@ In dieser Betrachtung des Kontrollverlusts geht es nicht um Technologien oder An
 
 Deshalb kann es zu Beginn nicht um vordefinierte Lösungen, um Alternativen oder um Vorschläge gehen, wie Unternehmen anders agieren könnten. Es geht vielmehr um die **Beschreibung eines Zustands.** Denn bevor über Werkzeuge, Plattformen oder Organisationsformen gesprochen werden kann, sollte klar sein, **was in den Unternehmen eigentlich passiert ist.**
 
-## Funktionsfähiger Kontrollverlust
+## Kontrollverlust bei funktionierender IT
 
 IT funktioniert. Und genau deshalb lohnt es sich, genauer hinzusehen. Nicht, um an Technik etwas zu ändern. Sondern zu verstehen, dass **IT Strukturen verstärkt**. Denn was strukturell entschieden ist, wird durch IT sichtbarer, wirksamer, stabiler und schwerer umgehbar. So kann auf den ersten Blick alles in Ordnung sein, während Kontrolle über diese Strukturen im Hintergrund verschwindet.
