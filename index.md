@@ -114,38 +114,46 @@ title: FreeData – Kontrolle statt Abhängigkeit.
 
 <hr class="divider"/>
 
-<section class="grid" aria-label="Genossenschaft und Selbstbeschreibung">
+<section class="grid" aria-label="Organisation und Struktur">
 
   <div class="stack">
     <div class="head">
       <span class="label">Organisationslogik</span>
-      <h2>Die Logik einer Genossenschaft.</h2>
+      <h2>Institutionelle Vorentscheidung.</h2>
     </div>
     <p>
-      Eine Genossenschaft ist keine Ideologie.
-      Sie ist eine Organisationsform, die kollektive Vorentscheidungen ermöglicht –
-      nicht, um Individualität zu ersetzen, sondern um sie zu entlasten.
+      Nicht jede Entscheidung muss immer wieder neu getroffen werden.
+      Organisationale Stabilität entsteht dort, wo Entscheidungen
+      entzogen und dauerhaft verfügbar gemacht werden.
+    </p>
+    <p>
+      Statt kollektiver Aushandlung setzt FreeData auf
+      institutionelle Vorentscheidung:
+      Eine Form, die entlastet, indem sie Alternativen
+      bewusst ausschließt.
     </p>
     <ul class="bullets">
-      <li>Geteilte Entwicklung reduziert Redundanz.</li>
-      <li>Gemeinsames Eigentum stabilisiert Kontrolle.</li>
-      <li>Offene Software macht Entscheidungen überprüfbar.</li>
+      <li>Keine Mitbestimmung über Grundentscheidungen.</li>
+      <li>Keine Revidierbarkeit durch Mehrheiten.</li>
+      <li>Verlässlichkeit durch Zweckbindung.</li>
     </ul>
   </div>
+
   <div class="stack">
     <div class="head">
       <span class="label">FreeData</span>
-      <h2>FreeData als Struktur.</h2>
+      <h2>FreeData als Stiftung.</h2>
     </div>
     <p>
       FreeData ist keine Plattform. Kein Produktversprechen. Kein Manifest.
-      FreeData ist der Versuch, Entscheidungen über IT-Grundlagen kollektiv vorzudenken
-      und technisch zu verstetigen.
+      FreeData ist eine institutionelle Setzung:
+      die dauerhafte Bereitstellung technischer Grundlagen
+      unter Entzug von Eigentum und Verfügungsgewalt.
     </p>
     <ul class="bullets">
-      <li>Genossenschaftlich organisiert</li>
+      <li>Stiftungsbasiert organisiert</li>
       <li>Auf Open-Source-Basis</li>
-      <li>Mit dem Ziel langfristiger Verfügung</li>
+      <li>Mit festgelegtem, nicht verhandelbarem Nutzen</li>
     </ul>
   </div>
 </section>
