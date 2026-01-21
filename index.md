@@ -7,7 +7,8 @@ title: FreeData – Kontrolle statt Abhängigkeit.
   <div class="kicker">FreeData · <em>Selbstbeschreibung</em></div>
 
   <p class="meta">
-    FreeData beobachtet IT-Strukturen als Entscheidungsbedingungen unter Abhängigkeit.  
+    FreeData beobachtet IT-Strukturen als <br> 
+    Entscheidungsbedingungen unter Abhängigkeit.  
   </p>
 
   <h1>IT funktioniert.<br>Und Abhängigkeiten entstehen.</h1>
