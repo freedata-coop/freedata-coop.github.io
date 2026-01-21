@@ -81,10 +81,7 @@ title: FreeData – Kontrolle statt Abhängigkeit.
       Daten können erreichbar sein, ohne unter eigener Entscheidungsfähigkeit zu stehen.
     </p>
     <p>
-      Nutzung erzeugt Funktionsfähigkeit. Verfügbarkeit bestimmt, ob Entscheidungen fortgesetzt werden können.
-    </p>
-    <p>
-      Diese Unterscheidung wird oft erst relevant, wenn Alternativen fehlen.
+      Nutzung erzeugt Funktionsfähigkeit. Verfügbarkeit bestimmt, ob Entscheidungen fortgesetzt werden können. Diese Unterscheidung wird oft erst relevant, wenn Alternativen fehlen.
     </p>
   </div>
 
@@ -131,10 +128,11 @@ title: FreeData – Kontrolle statt Abhängigkeit.
     <span class="label">Einordnung</span>
     <p>
       <br>
-      Was unter Souveränität verstanden wird,
-      entscheidet sich nicht an Technologie. 
-      Sondern daran, wie Entscheidungen
-      unter Abhängigkeit möglich bleiben.
+       Was unter Souveränität verstanden wird, <br>
+       entscheidet sich nicht an Technologie,  <br>
+       sondern daran, ob Entscheidungen unter  <br>
+       Abhängigkeit fortgesetzt, verändert <br> 
+       oder zurückgenommen werden können. <br>
     </p>
   </div>
 </div>
