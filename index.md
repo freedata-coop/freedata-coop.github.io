@@ -148,9 +148,12 @@ title: FreeData – Kontrolle statt Abhängigkeit.
 <div class="stack">
   <div class="head">
     <span class="label">Einordnung</span>
-      <h2>
-      Diese Gedanken werden <a href="https://www.freedata.net/blog">hier</a> weitergeführt.
-    </h2>
+     <h3>
+      Diese Gedanken werden auf dieser Seite weitergeführt.
+    </h3>
+    <p class="link">
+      <a href="https://www.freedata.net/blog">freedata.net/blog</a>
+    </p>
   </div>
 </div>
 
@@ -161,11 +164,11 @@ title: FreeData – Kontrolle statt Abhängigkeit.
   <div class="row">
     <a class="cta" href="mailto:shift@freedata.net">
       <span class="dot"></span>
-      <span>shift@freedata.net</span>
+      <span>shift@freedata.net</span><br>
     </a>
     <span class="tiny">
-      Schreiben Sie uns.<br>
-      Ein Satz genügt.
+      Wenn diese Gedanken bei Ihnen Anschluss finden, <br>
+      schreiben Sie uns.
     </span>
   </div>
 </div>
