@@ -7,7 +7,7 @@ title: FreeData – Kontrolle statt Abhängigkeit.
   <div class="kicker">FreeData · <em>Selbstbeschreibung</em></div>
 
   <p class="meta">
-    FreeData ist ein Denkraum, keine Produktstrategie.
+    FreeData beobachtet IT-Strukturen als Entscheidungsbedingungen unter Abhängigkeit.  
   </p>
 
   <h1>IT funktioniert.<br>Und Abhängigkeiten entstehen.</h1>
@@ -32,14 +32,12 @@ title: FreeData – Kontrolle statt Abhängigkeit.
   <div class="stack">
     <div class="head">
       <span class="label">Beobachtung</span>
-      <h2>Kontrolle und Abhängigkeit werden oft verwechselt.</h2>
+      <h2>Kontrolle und Abhängigkeit.</h2>
     </div>
     <p>
-      In Gesprächen mit Unternehmern zeigt sich ein wiederkehrendes Muster:
-      IT-Entscheidungen werden nicht bewusst getroffen, sondern aus Bequemlichkeit vermieden.
+      IT-Entscheidungen werden nicht bewusst getroffen, sondern durch vorgegebene Entscheidungsprämissen ersetzt.
       <br><br>
-      Standardlösungen sind sofort einsatzbereit – und genau deshalb wird selten gefragt,
-      welche Abhängigkeiten damit langfristig entstehen.
+      Standardlösungen sind auf sofortige Anschlussfähigkeit ausgelegt – und genau deshalb wird selten gefragt, welche Abhängigkeiten damit langfristig entstehen.
     </p>
     <p>
       Abhängigkeit beginnt selten als Risiko.<br>
@@ -53,15 +51,13 @@ title: FreeData – Kontrolle statt Abhängigkeit.
       <h2>Entscheidung und Bequemlichkeit.</h2>
     </div>
     <p>
-      Bequemlichkeit ist kein moralisches Problem. Sie ist eine betriebliche Notwendigkeit.
-      Problematisch wird sie dort, wo sie Entscheidungen ersetzt.
+      Bequemlichkeit ist keine entscheidungsrelevante Kategorie. Relevant wird vielmehr die Fortsetzung von Entscheidungsprämissen durch andere Entscheidungsprogramme:
     </p>
-    <p>Jede nicht getroffene Entscheidung wird implizit von anderen getroffen:</p>
     <ul class="bullets">
-      <li>von Herstellern</li>
-      <li>von Plattformbetreibern</li>
-      <li>von Lizenzmodellen</li>
-      <li>von technischen Roadmaps</li>
+      <li>Hersteller</li>
+      <li>Plattformbetreiber</li>
+      <li>Lizenzmodelle</li>
+      <li>technische Roadmaps</li>
     </ul>
     <p>
       Kontrolle geht dabei nicht abrupt verloren.<br>
@@ -78,16 +74,15 @@ title: FreeData – Kontrolle statt Abhängigkeit.
   <div class="stack">
     <div class="head">
       <span class="label">Technik</span>
-      <h2>Besitz ist etwas anderes als Zugriff.</h2>
+      <h2>Besitz und Zugriff.</h2>
     </div>
     <p>
       Technisch zeigt sich diese Verdünnung sehr konkret:
       Systeme können nutzbar sein, ohne verfügbar zu sein.
-      Daten können erreichbar sein, ohne unter eigener Verfügung zu stehen.
+      Daten können erreichbar sein, ohne unter eigener Entscheidungsfähigkeit zu stehen.
     </p>
     <p>
-      Zugriff suggeriert Kontrolle.<br>
-      Besitz ermöglicht sie.
+      Nutzung erzeugt Funktionsfähigkeit. Verfügbarkeit bestimmt, ob Entscheidungen fortgesetzt werden können.
     </p>
     <p>
       Diese Unterscheidung wird oft erst relevant, wenn Alternativen fehlen.
@@ -97,16 +92,10 @@ title: FreeData – Kontrolle statt Abhängigkeit.
   <div class="stack">
     <div class="head">
       <span class="label">Konsequenz</span>
-      <h2>Warum Einzellösungen nicht skalieren.</h2>
+      <h2>Optimierung und Skalierung.</h2>
     </div>
     <p>
-      Individuelle Optimierung ist sinnvoll. Aber sie skaliert schlecht.
-      Jedes Unternehmen, das dieselben Grundentscheidungen immer wieder neu treffen muss,
-      zahlt dafür mit Zeit, Geld und Abhängigkeit.
-    </p>
-    <p>
-      Was fehlt, ist nicht Technik.<br>
-      Was fehlt, ist vorentschiedene Struktur.
+      Individuelle Optimierung bleibt lokal, ihre Effekte sind nicht skalierbar. Jedes Unternehmen, das dieselben Grundentscheidungen immer wieder neu treffen muss, reproduziert Zeit-, Kosten- und Abhängigkeitsaufwand.
     </p>
   </div>
 
@@ -116,46 +105,28 @@ title: FreeData – Kontrolle statt Abhängigkeit.
 
 <section class="grid" aria-label="Organisation und Struktur">
 
-  <div class="stack">
-    <div class="head">
-      <span class="label">Organisationslogik</span>
-      <h2>Institutionelle Vorentscheidung.</h2>
-    </div>
-    <p>
-      Nicht jede Entscheidung muss immer wieder neu getroffen werden.
-      Organisationale Stabilität entsteht dort, wo Entscheidungen
-      entzogen und dauerhaft verfügbar gemacht werden.
-    </p>
-    <p>
-      Statt kollektiver Aushandlung setzt FreeData auf
-      institutionelle Vorentscheidung:
-      Eine Form, die entlastet, indem sie Alternativen
-      bewusst ausschließt.
-    </p>
-    <ul class="bullets">
-      <li>Keine Mitbestimmung über Grundentscheidungen.</li>
-      <li>Keine Revidierbarkeit durch Mehrheiten.</li>
-      <li>Verlässlichkeit durch Zweckbindung.</li>
-    </ul>
+<div class="stack">
+  <div class="head">
+    <span class="label">Organisationslogik</span>
+    <h2>Entscheidung und Struktur.</h2>
   </div>
 
-  <div class="stack">
-    <div class="head">
-      <span class="label">FreeData</span>
-      <h2>FreeData als Stiftung.</h2>
-    </div>
-    <p>
-      FreeData ist keine Plattform. Kein Produktversprechen. Kein Manifest.
-      FreeData ist eine institutionelle Setzung:
-      die dauerhafte Bereitstellung technischer Grundlagen
-      unter Entzug von Eigentum und Verfügungsgewalt.
-    </p>
-    <ul class="bullets">
-      <li>Stiftungsbasiert organisiert</li>
-      <li>Auf Open-Source-Basis</li>
-      <li>Mit festgelegtem, nicht verhandelbarem Nutzen</li>
-    </ul>
-  </div>
+  <p>
+    Nicht jede Entscheidung muss immer wieder neu getroffen werden. Organisationale Stabilität zeigt sich, wo Entscheidungen vorab getroffen und langfristig verfügbar gemacht werden.
+  </p>
+
+  <p>
+    FreeData beobachtet Formen vorentschiedener Struktur:
+    Arrangements, die entlasten, indem sie Alternativen reduzieren und dadurch Entscheidungsfolgen erkennbar machen.
+  </p>
+
+  <ul class="bullets">
+    <li>in technischen Infrastrukturen und Architekturen</li>
+    <li>in softwarebasierten Betriebs- und Dokumentationsformen</li>
+    <li>in Beschreibungen von Entscheidungsfolgen</li>
+  </ul>
+</div>
+
 </section>
 
 <hr class="divider"/>
@@ -168,7 +139,7 @@ title: FreeData – Kontrolle statt Abhängigkeit.
       <p>
         <br>
         Was unter Souveränität verstanden wird,
-        entscheidet sich nicht an Technologie allein. 
+        entscheidet sich nicht an Technologie. 
         Sondern daran, wie Entscheidungen
         unter Abhängigkeit möglich bleiben.
       </p>
