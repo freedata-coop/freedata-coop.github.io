@@ -20,7 +20,8 @@ title: FreeData – Kontrolle statt Abhängigkeit.
     <span class="tiny">
       Wenn diese Gedanken bei Ihnen Anschluss finden, <br>
       schreiben Sie uns.    
-    </span><br>
+    </span>
+    <br><br>
     <a class="cta" href="mailto:shift@freedata.net">
       <span class="dot" aria-hidden="true"></span>
       <span>shift@freedata.net</span>
