@@ -17,14 +17,14 @@ title: FreeData – Kontrolle statt Abhängigkeit.
     Weil Entscheidungen schleichend ausgelagert werden.
   </p>
   <div class="row">
+    <span class="tiny">
+      Wenn diese Gedanken bei Ihnen Anschluss finden, <br>
+      schreiben Sie uns.    
+    </span><br>
     <a class="cta" href="mailto:shift@freedata.net">
       <span class="dot" aria-hidden="true"></span>
       <span>shift@freedata.net</span>
     </a>
-    <span class="tiny">
-      Wenn diese Gedanken bei Ihnen Anschluss finden, <br>
-      schreiben Sie uns.    
-    </span>
   </div>
 </section>
 
@@ -160,15 +160,15 @@ title: FreeData – Kontrolle statt Abhängigkeit.
   <div class="head">
     <span class="label">Kontakt & Anschluss</span>
   </div>
-  <div class="row">
-    <a class="cta" href="mailto:shift@freedata.net">
-      <span class="dot"></span>
-      <span>shift@freedata.net</span><br>
-    </a>
+   <div class="row">
     <span class="tiny">
       Wenn diese Gedanken bei Ihnen Anschluss finden, <br>
-      schreiben Sie uns.
-    </span>
+      schreiben Sie uns.    
+    </span><br>
+    <a class="cta" href="mailto:shift@freedata.net">
+      <span class="dot" aria-hidden="true"></span>
+      <span>shift@freedata.net</span>
+    </a>
   </div>
 </div>
   
