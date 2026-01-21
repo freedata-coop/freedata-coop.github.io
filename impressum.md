@@ -13,7 +13,7 @@ sitemap: false
 
   <h3>Angaben gemäß § 5 TMG</h3>
   <p>
-    **Stefan Bergmann** <br/>
+    Stefan Bergmann <br/>
     Pyrbaumer Weg 8a <br/>
     90502 Schwarzenbruck, Germany <br/>
     Deutschland
