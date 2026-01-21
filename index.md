@@ -162,15 +162,16 @@ title: FreeData – Kontrolle statt Abhängigkeit.
   <div class="head">
     <span class="label">Kontakt & Anschluss</span>
   </div>
-   <div class="row">
-    <span class="tiny">
-      Wenn diese Gedanken bei Ihnen Anschluss finden, <br>
-      schreiben Sie uns.    
-    </span><br>
+  <div class="row">
     <a class="cta" href="mailto:shift@freedata.net">
       <span class="dot" aria-hidden="true"></span>
       <span>shift@freedata.net</span>
     </a>
+    <p class="tiny">
+      Wenn diese Gedanken <br> 
+      bei Ihnen Anschluss finden, <br>
+      schreiben Sie uns.    
+    </p>
   </div>
 </div>
   
