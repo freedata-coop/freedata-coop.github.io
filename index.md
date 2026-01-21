@@ -33,8 +33,8 @@ title: FreeData – Kontrolle statt Abhängigkeit.
 
   <div class="stack">
     <div class="head">
-      <span class="label">Beobachtung</span>
-      <h2>Kontrolle und Abhängigkeit.</h2>
+      <span class="label">Kontrolle und Abhängigkeit.</span>
+       <h2></h2>
     </div>
     <p>
       IT-Entscheidungen werden nicht bewusst getroffen, sondern durch vorgegebene Entscheidungsprämissen ersetzt.
@@ -49,8 +49,8 @@ title: FreeData – Kontrolle statt Abhängigkeit.
 
   <div class="stack">
     <div class="head">
-      <span class="label">Prozess</span>
-      <h2>Entscheidung und Bequemlichkeit.</h2>
+      <span class="label">Entscheidung und Bequemlichkeit.</span>
+      <h2></h2>
     </div>
     <p>
       Bequemlichkeit ist keine entscheidungsrelevante Kategorie. Relevant wird vielmehr die Fortsetzung von Entscheidungsprämissen durch andere Entscheidungsprogramme:
@@ -75,8 +75,8 @@ title: FreeData – Kontrolle statt Abhängigkeit.
 
   <div class="stack">
     <div class="head">
-      <span class="label">Technik</span>
-      <h2>Besitz und Zugriff.</h2>
+      <span class="label">Besitz und Zugriff.</span>
+      <h2></h2>
     </div>
     <p>
       Technisch zeigt sich diese Verdünnung sehr konkret:
@@ -90,8 +90,8 @@ title: FreeData – Kontrolle statt Abhängigkeit.
 
   <div class="stack">
     <div class="head">
-      <span class="label">Konsequenz</span>
-      <h2>Optimierung und Skalierung.</h2>
+      <span class="label">Optimierung und Skalierung.</span>
+      <h2></h2>
     </div>
     <p>
       Individuelle Optimierung bleibt lokal, ihre Effekte sind nicht skalierbar. Jedes Unternehmen, das dieselben Grundentscheidungen immer wieder neu treffen muss, reproduziert Zeit-, Kosten- und Abhängigkeitsaufwand.
@@ -106,8 +106,8 @@ title: FreeData – Kontrolle statt Abhängigkeit.
 
 <div class="stack">
   <div class="head">
-    <span class="label">Organisationslogik</span>
-    <h2>Entscheidung und Struktur.</h2>
+    <span class="label">Entscheidung und Struktur.</span>
+    <h2></h2>
   </div>
 
   <p>
@@ -131,11 +131,7 @@ title: FreeData – Kontrolle statt Abhängigkeit.
     <span class="label">Einordnung</span>
     <p>
       <br>
-       Was unter Souveränität verstanden wird, <br>
-       entscheidet sich nicht an Technologie,  <br>
-       sondern daran, ob Entscheidungen unter  <br>
-       Abhängigkeit fortgesetzt, verändert <br> 
-       oder zurückgenommen werden können. <br>
+       Was unter Souveränität verstanden wird, entscheidet sich nicht an Technologie, sondern daran, ob Entscheidungen unter Abhängigkeit fortgesetzt, verändert oder zurückgenommen werden können. 
     </p>
   </div>
 </div>
@@ -149,10 +145,10 @@ title: FreeData – Kontrolle statt Abhängigkeit.
 <div class="stack">
   <div class="head">
     <span class="label">Einordnung</span>
-     <h3>
+     <p>
       Diese Gedanken werden <br>
       auf dieser Seite weitergeführt.
-    </h3>
+    </p>
     <p class="link">
       <a href="https://www.freedata.net/blog">freedata.net/blog</a>
     </p>
