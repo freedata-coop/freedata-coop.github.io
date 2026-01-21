@@ -14,18 +14,19 @@ title: FreeData – Kontrolle statt Abhängigkeit.
   <h1>IT funktioniert.<br>Und Abhängigkeiten entstehen.</h1>
 
   <p class="lead">
-    Weil Entscheidungen schleichend ausgelagert werden.
+    Weil Entscheidungen <br>
+    schleichend ausgelagert werden.
   </p>
   <div class="row">
+    <a class="cta" href="mailto:shift@freedata.net">
+      <span class="dot" aria-hidden="true"></span>
+      <span>shift@freedata.net</span>
+    </a>
     <p class="tiny">
       Wenn diese Gedanken <br> 
       bei Ihnen Anschluss finden, <br>
       schreiben Sie uns.    
     </p>
-    <a class="cta" href="mailto:shift@freedata.net">
-      <span class="dot" aria-hidden="true"></span>
-      <span>shift@freedata.net</span>
-    </a>
   </div>
 </section>
 
