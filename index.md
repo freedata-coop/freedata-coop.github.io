@@ -13,8 +13,7 @@ title: FreeData – Kontrolle statt Abhängigkeit.
   <h1>IT funktioniert.<br>Und Abhängigkeiten entstehen.</h1>
 
   <p class="lead">
-    Nicht, weil etwas kaputt wäre.<br>
-    Sondern weil Entscheidungen schleichend ausgelagert werden.
+    Weil Entscheidungen schleichend ausgelagert werden.
   </p>
   <div class="row">
     <a class="cta" href="mailto:shift@freedata.net">
@@ -127,42 +126,49 @@ title: FreeData – Kontrolle statt Abhängigkeit.
   </ul>
 </div>
 
+<div class="stack">
+  <div class="head">
+    <span class="label">Einordnung</span>
+    <p>
+      <br>
+      Was unter Souveränität verstanden wird,
+      entscheidet sich nicht an Technologie. 
+      Sondern daran, wie Entscheidungen
+      unter Abhängigkeit möglich bleiben.
+    </p>
+  </div>
+</div>
+
 </section>
 
 <hr class="divider"/>
 
 <section class="grid" aria-label="Feststellung und Kontakt">
 
-  <div class="stack">
-    <div class="head">
-      <span class="label">Einordnung</span>
-      <p>
-        <br>
-        Was unter Souveränität verstanden wird,
-        entscheidet sich nicht an Technologie. 
-        Sondern daran, wie Entscheidungen
-        unter Abhängigkeit möglich bleiben.
-      </p>
-    </div>
+<div class="stack">
+  <div class="head">
+    <span class="label">Einordnung</span>
+      <h2>
+      Diese Gedanken werden <a href="https://www.freedata.net/blog">hier</a> weitergeführt.
+    </h2>
   </div>
+</div>
 
-  <div class="stack">
-    <div class="head">
-      <span class="label">Kontakt</span>
-      <div class="contact">
-        <h2>
-          <br>
-          Wenn diese Gedanken für Sie Sinn ergeben,
-          dann lohnt sich ein Gespräch.
-        </h2>
-      </div>
-    </div>
-    <div class="row">
-      <a class="cta" href="mailto:shift@freedata.net">
-        <span class="dot"></span>
-        <span>shift@freedata.net</span>
-      </a>
-      <span class="tiny">Schreiben Sie uns.<br>Ein Satz genügt.</span>
-    </div>
+<div class="stack">
+  <div class="head">
+    <span class="label">Kontakt</span>
   </div>
+  <div class="row">
+    <a class="cta" href="mailto:shift@freedata.net">
+      <span class="dot"></span>
+      <span>shift@freedata.net</span>
+    </a>
+    <span class="tiny">
+      Schreiben Sie uns.<br>
+      Ein Satz genügt.
+    </span>
+  </div>
+</div>
+  
+
 </section>
