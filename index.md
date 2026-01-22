@@ -157,14 +157,14 @@ title: FreeData – Kontrolle statt Abhängigkeit.
   <div class="head">
     <span class="label">Gedanke und Fortsetzung.</span>
      <p>
-      Diese Beobachtungen werden <br>
-      im FreeData-Blog fortgesetzt - mit Beispielen aus:
-      <ul class="bullets">
-        <li>Mittelstand (Fallstudien)</li>
-        <li>Genossenschaften (kollektive Entscheidungsarchitekturen)</li>
-        <li>Europäischer KI-Politik (Regulierung als Prämisse).</li>
-      </ul>
+        Diese Beobachtungen werden <br>
+        im FreeData-Blog fortgesetzt - mit Beispielen aus:
     </p>
+    <ul class="bullets">
+      <li>Mittelstand (Fallstudien)</li>
+      <li>Genossenschaften (kollektive Entscheidungsarchitekturen)</li>
+      <li>Europäischer KI-Politik (Regulierung als Prämisse).</li>
+    </ul>
     <p class="link">
       <a href="/blog">Fortsetzung der Beobachtungen</a>
     </p>
