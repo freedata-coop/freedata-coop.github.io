@@ -59,7 +59,7 @@ title: FreeData – Kontrolle statt Abhängigkeit.
     </div>
       <p>
         Komplexitätsreduktion ist keine Entscheidung.<br>
-        Entscheidungsrelevant ist die Fortsetzung von Entscheidungsfolgen<br>
+        Entscheidungsrelevant ist die Fortsetzung von Entscheidungsfolgen 
         über Entscheidungsprämissen wie:
       </p>
       <ul class="bullets">
