@@ -144,6 +144,7 @@ title: FreeData – Kontrolle statt Abhängigkeit.
 <section class="grid" aria-label="Feststellung und Kontakt">
 
 <div class="stack">
+<br>
   <div class="head">
     <span class="label">Gedanke und Anschluss.</span>
      <p>
@@ -157,6 +158,7 @@ title: FreeData – Kontrolle statt Abhängigkeit.
 </div>
 
 <div class="stack">
+<br>
   <div class="head">
     <span class="label">Kontakt und Anschluss</span>
   </div>
@@ -165,9 +167,6 @@ title: FreeData – Kontrolle statt Abhängigkeit.
       <span class="dot" aria-hidden="true"></span>
       <span>shift@freedata.net</span>
     </a>
-    <p class="tiny">
-      Anschluss ist möglich.    
-    </p>
   </div>
 </div>
 
