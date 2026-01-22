@@ -14,8 +14,8 @@ title: FreeData – Kontrolle statt Abhängigkeit.
   <h1>IT funktioniert.<br>Und Abhängigkeiten entstehen.</h1>
 
   <p class="lead">
-    Weil Entscheidungen <br>
-    schleichend ausgelagert werden.
+    Entscheidungen lagern sich aus. <br>
+    Abhängigkeiten stabilisieren sich.
   </p>
   <div class="row">
     <a class="cta" href="mailto:shift@freedata.net">
@@ -23,9 +23,6 @@ title: FreeData – Kontrolle statt Abhängigkeit.
       <span>shift@freedata.net</span>
     </a>
     <p class="tiny">
-      Wenn diese Gedanken <br> 
-      bei Ihnen Anschluss finden, <br>
-      schreiben Sie uns.    
     </p>
   </div>
 </section>
@@ -52,18 +49,20 @@ title: FreeData – Kontrolle statt Abhängigkeit.
 
   <div class="stack">
     <div class="head">
-      <span class="label">Entscheidung und Bequemlichkeit.</span>
+      <span class="label">Komplexitätsreduktion und Entscheidung.</span>
       <h2></h2>
     </div>
-    <p>
-      Bequemlichkeit ist keine entscheidungsrelevante Kategorie. Relevant wird vielmehr die Fortsetzung von Entscheidungsprämissen durch andere Entscheidungsprogramme:
-    </p>
-    <ul class="bullets">
-      <li>Hersteller</li>
-      <li>Plattformbetreiber</li>
-      <li>Lizenzmodelle</li>
-      <li>technische Roadmaps</li>
-    </ul>
+      <p>
+        Komplexitätsreduktion ist keine Entscheidung.<br>
+        Entscheidungsrelevant ist die Fortsetzung von Entscheidungsfolgen<br>
+        über Entscheidungsprämissen wie:
+      </p>
+      <ul class="bullets">
+        <li>Produktlogiken (Hersteller)</li>
+        <li>Anschlusszwänge (Plattformen)</li>
+        <li>Rechtliche Filter (Lizenzen)</li>
+        <li>Zukunftspfadbindungen (Roadmaps)</li>
+      </ul>
     <p>
       Kontrolle geht dabei nicht abrupt verloren.<br>
       Sie verdünnt sich.
@@ -82,12 +81,11 @@ title: FreeData – Kontrolle statt Abhängigkeit.
       <h2></h2>
     </div>
     <p>
-      Technisch zeigt sich diese Verdünnung sehr konkret:
-      Systeme können nutzbar sein, ohne verfügbar zu sein.
-      Daten können erreichbar sein, ohne unter eigener Entscheidungsfähigkeit zu stehen.
+      Technisch zeigt sich diese Verdünnung sehr konkret: <br>
+      Systeme können nutzbar sein, ohne verfügbar zu sein. Daten können erreichbar sein, ohne unter eigener Entscheidungsfähigkeit zu stehen.
     </p>
     <p>
-      Nutzung erzeugt Funktionsfähigkeit. Verfügbarkeit bestimmt, ob Entscheidungen fortgesetzt werden können. Diese Unterscheidung wird oft erst relevant, wenn Alternativen fehlen.
+      Nutzung setzt Funktionsfähigkeit voraus. Verfügbarkeit entscheidet über Fortsetzbarkeit. Diese Unterscheidung wird oft erst relevant, wenn Alternativen fehlen.
     </p>
   </div>
 
@@ -131,7 +129,7 @@ title: FreeData – Kontrolle statt Abhängigkeit.
 
 <div class="stack">
   <div class="head">
-    <span class="label">Souveränität und Entscheidung.</span>
+    <span class="label">Souveränität und Beobachtungsproblem.</span>
     <p>
       <br>
        Was unter Souveränität verstanden wird, entscheidet sich nicht an Technologie, sondern daran, ob Entscheidungen unter Abhängigkeit fortgesetzt, verändert oder zurückgenommen werden können. 
@@ -147,7 +145,7 @@ title: FreeData – Kontrolle statt Abhängigkeit.
 
 <div class="stack">
   <div class="head">
-    <span class="label">Gedanke und Fortsetzung.</span>
+    <span class="label">Gedanke und Anschluss.</span>
      <p>
       Diese Gedanken werden <br>
       auf dieser Seite weitergeführt.
@@ -168,9 +166,7 @@ title: FreeData – Kontrolle statt Abhängigkeit.
       <span>shift@freedata.net</span>
     </a>
     <p class="tiny">
-      Wenn diese Gedanken <br> 
-      bei Ihnen Anschluss finden, <br>
-      schreiben Sie uns.    
+      Anschluss ist möglich.    
     </p>
   </div>
 </div>
