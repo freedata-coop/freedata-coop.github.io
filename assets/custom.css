@@ -159,7 +159,7 @@ p{
   justify-content:center;
   min-width: 100%;
   padding:6px 14px;
-  color: #fff;
+  color: var(--mode-accent);
   border:1px solid var(--line);
   border-radius:999px;
   border-color: #fff;
