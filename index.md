@@ -153,7 +153,7 @@ title: FreeData – Kontrolle statt Abhängigkeit.
       auf dieser Seite weitergeführt.
     </p>
     <p class="link">
-      <a href="https://www.freedata.net/blog">freedata.net/blog</a>
+      <a href="https://www.freedata.net/blog">Gedanken.</a>
     </p>
   </div>
 </div>
