@@ -7,16 +7,11 @@ title: FreeData – Kontrolle statt Abhängigkeit.
   <div class="kicker">FreeData · <em>Selbstbeschreibung</em></div>
 
   <p class="meta">
-    FreeData beobachtet, wie IT-Entscheidungen Abhängigkeiten erzeugen – <br>
-    nicht als Risiko, sondern als Folge struktureller Kopplung. <br>
+    FreeData beobachtet IT-Strukturen als <br> 
+    Entscheidungsbedingungen unter Abhängigkeit.  
   </p>
 
-  <em>
-    <h1>
-      IT funktioniert.<br>
-      Und Abhängigkeiten entstehen.
-    </h1>
-  </em>
+  <h1>IT funktioniert.<br>Und Abhängigkeiten entstehen.</h1>
 
   <p class="lead">
     Weil Entscheidungen <br>
@@ -61,14 +56,13 @@ title: FreeData – Kontrolle statt Abhängigkeit.
       <h2></h2>
     </div>
     <p>
-      Bequemlichkeit ist keine Entscheidung, sondern eine Reduktion von Komplexität. Relevant wird, wer die Folgen dieser Reduktion kontrolliert. Wo Entscheidungen vorentschieden werden:
+      Bequemlichkeit ist keine entscheidungsrelevante Kategorie. Relevant wird vielmehr die Fortsetzung von Entscheidungsprämissen durch andere Entscheidungsprogramme:
     </p>
     <ul class="bullets">
       <li>Hersteller</li>
       <li>Plattformbetreiber</li>
       <li>Lizenzmodelle</li>
       <li>technische Roadmaps</li>
-      <li>oder ihre Organisation</li>
     </ul>
     <p>
       Kontrolle geht dabei nicht abrupt verloren.<br>
@@ -89,8 +83,8 @@ title: FreeData – Kontrolle statt Abhängigkeit.
     </div>
     <p>
       Technisch zeigt sich diese Verdünnung sehr konkret:
-      Systeme sind nutzbar, ohne verfügbar zu sein.
-      Daten sind erreichbar ohne kontrollierbar zu sein.
+      Systeme können nutzbar sein, ohne verfügbar zu sein.
+      Daten können erreichbar sein, ohne unter eigener Entscheidungsfähigkeit zu stehen.
     </p>
     <p>
       Nutzung erzeugt Funktionsfähigkeit. Verfügbarkeit bestimmt, ob Entscheidungen fortgesetzt werden können. Diese Unterscheidung wird oft erst relevant, wenn Alternativen fehlen.
@@ -103,7 +97,7 @@ title: FreeData – Kontrolle statt Abhängigkeit.
       <h2></h2>
     </div>
     <p>
-      Individuelle Optimierung schafft kollektive Abhängigkeit. Je mehr Unternehmen dieselben Standardlösungen wählen, desto weniger Alternativen bleiben – und desto unsichtbarer werden die Entscheidungsprämissen.
+      Individuelle Optimierung bleibt lokal, ihre Effekte sind nicht skalierbar. Jedes Unternehmen, das dieselben Grundentscheidungen immer wieder neu treffen muss, reproduziert Zeit-, Kosten- und Abhängigkeitsaufwand.
     </p>
   </div>
 
@@ -120,9 +114,7 @@ title: FreeData – Kontrolle statt Abhängigkeit.
   </div>
 
   <p>
-    Nicht jede Entscheidung muss immer wieder neu getroffen werden. 
-   
-   Organisationale Stabilität zeigt sich, wo Entscheidungen vorab getroffen und langfristig verfügbar gemacht werden.
+    Nicht jede Entscheidung muss immer wieder neu getroffen werden. Organisationale Stabilität zeigt sich, wo Entscheidungen vorab getroffen und langfristig verfügbar gemacht werden.
   </p>
 
   <p>
@@ -157,16 +149,11 @@ title: FreeData – Kontrolle statt Abhängigkeit.
   <div class="head">
     <span class="label">Gedanke und Fortsetzung.</span>
      <p>
-        Diese Beobachtungen werden <br>
-        im FreeData-Blog fortgesetzt - mit Beispielen aus:
+      Diese Gedanken werden <br>
+      auf dieser Seite weitergeführt.
     </p>
-    <ul class="bullets">
-      <li>Mittelstand (Fallstudien)</li>
-      <li>Genossenschaften (kollektive Entscheidungsarchitekturen)</li>
-      <li>Europäischer KI-Politik (Regulierung als Prämisse).</li>
-    </ul>
     <p class="link">
-      <a href="/blog">Fortsetzung der Beobachtungen</a>
+      <a href="https://www.freedata.net/blog">freedata.net/blog</a>
     </p>
   </div>
 </div>
@@ -181,12 +168,11 @@ title: FreeData – Kontrolle statt Abhängigkeit.
       <span>shift@freedata.net</span>
     </a>
     <p class="tiny">
-        Diese Beobachtungen werden fortgesetzt.<br>      
-        Sie finden Anschluss? Schreiben Sie uns.<br>
-       <a href="mailto:shift@freedata.net">shift@freedata.net</a>
+      Wenn diese Gedanken <br> 
+      bei Ihnen Anschluss finden, <br>
+      schreiben Sie uns.    
     </p>
   </div>
 </div>
-  
 
 </section>
