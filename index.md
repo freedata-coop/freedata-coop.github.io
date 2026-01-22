@@ -7,7 +7,8 @@ title: FreeData – Kontrolle statt Abhängigkeit.
   <div class="kicker">FreeData · <em>Selbstbeschreibung</em></div>
 
   <p class="meta">
-    FreeData beobachtet, wie IT-Entscheidungen Abhängigkeiten erzeugen – nicht als Risiko, sondern als Folge struktureller Kopplung. Wir analysieren, wo Entscheidungsprämissen Souveränität verdünnen. 
+    FreeData beobachtet, wie IT-Entscheidungen Abhängigkeiten erzeugen – <br>
+    nicht als Risiko, sondern als Folge struktureller Kopplung. <br>
   </p>
 
   <em>
