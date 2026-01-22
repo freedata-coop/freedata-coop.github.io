@@ -11,7 +11,12 @@ title: FreeData – Kontrolle statt Abhängigkeit.
     Entscheidungsbedingungen unter Abhängigkeit.  
   </p>
 
-  <h1>IT funktioniert.<br>Und Abhängigkeiten entstehen.</h1>
+  <h1>
+    <em>
+      IT funktioniert.<br>
+      Und Abhängigkeiten entstehen.
+    </em>
+  </h1>
 
   <p class="lead">
     Entscheidungen lagern sich aus. <br>
